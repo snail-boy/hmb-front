@@ -1,0 +1,10 @@
+version: '3'
+services:
+  ihc-front:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: ihc-front # 依赖于当前 Dockerfile 创建镜像
+        container_name: ihc-front
+        ports:
+            - 8081:9519 # 宿主机通过 8081 访问

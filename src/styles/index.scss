@@ -1,0 +1,197 @@
+@import './variables.scss';
+@import "./global.scss";
+@import "./reset.scss";
+
+body {
+  height: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: PingFangSC-Medium, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+.van-list__finished-text {
+  font-size: 24px;
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  color: rgba(222, 222, 222, 1);
+  line-height: 33px;
+  letter-spacing: 1px;
+}
+
+.van-toast--default {
+  width: auto;
+}
+
+// 页面禁止复制
+* {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+input {
+  -webkit-user-select: auto; /*webkit浏览器*/
+}
+
+.left-img {
+  display: block;
+}
+
+.left-img-box {
+  width: 160px;
+  height: 160px;
+  margin-right: 10px;
+}
+
+.t-left{
+  display: flex;
+  align-items: center;
+  img{
+    display: inline-block;
+    margin-left: 20px;
+    width: 45px;
+  }
+}
+
+// 覆盖loading样式
+.van-loading__spinner{
+  width: 50px!important;
+  height: 50px!important;
+}
+.van-loading__text{
+  font-size: 28px!important;
+}
+
+.g-line {
+  padding: 0;
+  width: 100%;
+  height:16px;
+  background:rgba(249,249,249,1);
+}
+.van-list__finished-text {
+  margin-top: 10px !important;
+}
+.van-radio{
+  display: flex;
+  align-items: center;
+}
+.van-radio__icon--round {
+  height: auto;
+}
+.van-radio__label{
+  line-height: normal;
+}
+
+.van-progress {
+  background-color: #A8D8A5
+}
+
+::-webkit-scrollbar {
+  display: none; /* Chrome Safari */
+}
+.van-overlay {
+  z-index: 201;
+}
+.van-button--disabled {
+  pointer-events: none;
+}
+
+.img-margin {
+  margin-top: 20px;
+}
+
+.van-picker__confirm {
+  color: $base-color;
+}
+
+.global-bottom-margin {
+  margin: 20px auto;
+}
+
+.now-btn {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  font-size: 32px;
+  line-height: 100px;
+  background-color: $base-color;
+  text-align: center;
+  border-radius: 2px;
+  border: none;
+  color: white;
+  z-index: 100;
+  flex: 1;
+}
+
+.innovative-medicine-center {
+  text-align: center;
+  color: $base-color;;
+}
+.qr-code-box {
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+}
+.global-tips {
+  text-align: center;
+  color: #666;
+  margin: 0 auto 30px;
+}
+
+.global-van-dialog {
+  padding: 20px 30px;
+  text-align: justify;
+  line-height: 50px;
+  font-size: 26px;
+  color: #666;
+}
+.code-btn {
+  background: $base-color;
+  border: none;
+  width: 180px;
+}
+
+.voucher-now-btn {
+  display: block;
+  width: 600px;
+  height: 80px;
+  font-size: 28px;
+  line-height: 70px;
+  background-color: $base-color;
+  border: none;
+  text-align: center;
+  margin: 50px auto  0;
+  color: white;
+  border-radius: 50px;
+}
+.em {
+  text-indent: 2em;
+}

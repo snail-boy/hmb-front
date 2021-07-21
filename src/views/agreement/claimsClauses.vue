@@ -1,0 +1,5345 @@
+<template>
+   <div class="clauses-item-wrapper">
+<header id="title-block-header">
+<h1 class="title">“琴岛e保”理赔须知</h1>
+</header>
+<p><strong>一、享受待遇条件</strong></p>
+<p><strong>按规定足额缴纳琴岛e保保费的</strong>青岛市城镇职工基本医疗保险、城乡居民基本医疗保险参保人员，在享受青岛市社会医疗保险统筹（包括但不限于基本医疗保险、大病保险、全民补充医疗保险、医疗救助、扶贫特惠保险、再救助等，下同）待遇的基础上享受“琴岛e保”待遇。</p>
+<p><strong>二、保障责任</strong></p>
+<p>（一）责任一:住院补充医疗保障。在保险期间内，被保险人因疾病或意外按规定在定点医疗机构住院治疗发生的个人负担的、符合基本医疗保险和大病医疗保险支付范围内的医疗费用<strong>（即医保目录内甲类及乙类费用，超限额以上费用除外），经青岛市基本医疗保险、大病医疗保险、医疗救助、扶贫特惠、再救助等报销后的剩余部分，在扣除年度累计1.8万元起付线后（责任一和责任二共用1.8万元起付线）按70%比例进行给付，</strong>保险年度累计最高支付限额为150万元（<strong>责任一和责任二共用150万元保额</strong>）。</p>
+<p>（二）责任二:门诊慢特病补充医疗保障。在保险期间内，被保险人因门诊慢特病（详见附件1）按规定在定点医疗机构门诊治疗发生的个人负担的、符合基本医疗保险和大病医疗保险支付范围内的医疗费用（<strong>即医保目录内甲类及乙类费用，超限额以上费用除外</strong>），<strong>经青岛市基本医疗保险、大病医疗保险、医疗救助、扶贫特惠、再救助等报销后的剩余部分，在扣除年度累计1.8万元起付线后（责任一和责任二共用1.8万元起付线）按70%比例（门诊慢特病既往症按40%）进行给付，</strong>保险年度累计最高支付限额为150万元（<strong>责任一和责任二共用150万元保额）</strong>。</p>
+<p><strong>门诊慢特病既往症，是指被保险人在2021年7月1日前罹患门诊慢特病，并已经办理社会医疗保险门诊慢特病待遇且审批通过。</strong></p>
+<p>（三）责任三:医保目录外住院合理药品补充医疗保障。在保险期间内，被保险人因疾病或意外按规定在定点医疗机构住院，在治疗医院（<strong>不含药店购买</strong>）发生的，<strong>合理治疗所需的医保目录外且已列入正面清单的药品费用，扣除年度累计2万元起付线后按60%比例进行给付</strong>，保险年度累计最高支付限额为100万元。<strong>医保目录外的合理药品费用，是指本保险保障药品清单（正面清单）内的药品费用，具体药品清单（正面清单）详见附件2。若本责任应赔付金额高于经社会医疗保险、医疗救助等报销后剩余金额，则本保险仅赔付剩余金额</strong>。</p>
+<p>（四）责任四:特殊药品、特殊医用耗材医疗保障。在保险期间内，被保险人患恶性肿瘤等重特大疾病按规定在定点医疗机构诊疗后，由具有该类疾病诊疗资质的责任医师根据基因检测等相关结果，实施治疗所发生的特殊药品、特殊医用耗材费用（<strong>以下简称特药/特材，15种特药/特材目录详见附件3，可住院使用或在指定药店购买，指定药店详见附件4），但需符合目录所附可报的特药/特材列明的适应症，扣除年度累计2万元起付线后按70%（既往症按40%）比例进行给付</strong>，保险年度累计最高支付限额为50万元。</p>
+<p><strong>特药/特材既往症，是指参保人在2021年7月1日前已确诊所患疾病属于清单内特药/特材适应症。</strong></p>
+<p><strong>若保险期间内清单中某特药/特材通过国家或省药品谈判进入医保基本及大病医疗保险支付范围内，则本责任不再赔付该特药/特材费用，在责任一、二中按照约定赔付。</strong></p>
+<p><strong>若保险期间内清单中某特药/特材已经通过社会医疗保险或医疗救助等报销，则本责任不再赔付该特药/特材费用。</strong></p>
+<p><strong>起付线：按保险年度累计，从2021年7月1日至2022年6月30日累计。</strong></p>
+<p><strong>三、特别约定</strong></p>
+<h1 id="一待遇核算">（一）待遇核算</h1>
+<h1 id="琴岛e保的待遇核算在享受青岛市社会医疗保险统筹待遇之后进行">“琴岛e保”的待遇核算在享受青岛市社会医疗保险统筹待遇之后进行。</h1>
+<h1 id="二转外就医">（二）转外就医</h1>
+<p><strong>被保险人转外就医符合青岛基本医保管理办法要求，并按医保规定办理转外治疗手续，发生的相关医疗费用达到约定起付线标准，在约定赔付比例的基础上降低5个百分点后予以报销。若未按规定办理相关备案手续的或临时外出就医的，发生相关医疗费用达到约定起付线标准，在约定赔付比例的基础上降低15个百分点后予以报销。</strong></p>
+<h1 id="section"></h1>
+<h1 id="三等待期2021年首年参保的首年及参保均不设待遇等待期以后各年新增投保者自合同生效日起60日含第60日为等待期新生儿无等待期等待期是指保险合同在生效的指定时期内即使发生保险事故受益人也不能获得保险赔偿这段时期称为等待期">（三）等待期：2021年首年参保的，首年及参保均不设待遇等待期；以后各年新增投保者，自合同生效日起60日（含第60日）为等待期（新生儿无等待期）。等待期，是指保险合同在生效的指定时期内，即使发生保险事故，受益人也不能获得保险赔偿，这段时期称为等待期。</h1>
+<p><strong>（四）本产品为医疗费用补偿型，总体给付原则是各方（包括但不限于所属社会医疗保险，工作单位、侵权人或侵权责任承担方及商业保险机构等）汇总给付金额不超过被保险人实际支出的医疗费用。</strong></p>
+<p><strong>（五）被保险人在保险责任期起始日（2021年7月1日）以前入院，因事故发生不在保险责任期内，该次住院产生的所有医疗费用保险人不承担给付保险金责任；被保险人在保险责任期间入院，但在保险责任终止日期（2022年6月30日）治疗仍未结束且次年未及时续保的，保险人所负保险责任自保险期间届满之时终止。</strong></p>
+<p>（六）<strong>责任免除：下列情形，造成被保险人医疗费用支出的，本产品不承担给付保险金的责任。</strong></p>
+<p><strong>1.应当由第三人负担的；</strong></p>
+<p><strong>2.应当从工伤保险、护理保险、门诊统筹等支付的以及因生育住院产生的医疗费用；</strong></p>
+<p><strong>3.应当由公共卫生负担的；</strong></p>
+<p><strong>4.保险合同中载明的起付线以下金额；</strong></p>
+<p><strong>5.被保险人符合特药/特材慈善援助用药申请，但因被保险人未提交相关申请或者提交申请材料不全，导致援助项目申请未通过而发生的药品费用；被保险人通过援助审核，但因被保险人原因未领取援助药品，视为被保险人自愿放弃本合同项下适用的保险权益；</strong></p>
+<p><strong>6.法律、法规、政策、文件规定不予支付的事项；</strong></p>
+<p><strong>7.被保险人不按本市社会医疗保险有关规定就医发生的医疗费用；</strong></p>
+<p><strong>8.被保险人在医疗费用发生期间，不享受青岛市社会医疗保险统筹待遇的；</strong></p>
+<p><strong>9.当次手术或住院基本医疗保险整体不予报销的情形，如各种美容、整形、非功能性矫形、减肥，治疗雀斑、脱痣、护肤、镶牙、洁牙，配镜、装配假眼、假肢、助听器等发生的费用；</strong></p>
+<p><strong>10.非疾病治疗项目类，如各种健康体检、婚前检查、旅游体检、职业体检、出境体检等费用；</strong></p>
+<p><strong>11.各种不育（孕）症、性功能障碍的诊疗项目（如：男性不育、女性不育检查、治疗费，鉴定性病检查、治疗费，违反计划生育的－切医疗费用），各种教学性、科研性和临床验证性的诊疗项目费用。</strong></p>
+<p>四、理赔结算</p>
+<p>（一）系统联网“一站式”结算</p>
+<p>2021年7月1日0时起至2022年6月30日24时止期间发生的符合理赔条件的医疗费用，执行“琴岛e保”与基本医保、大病保险等同步一站式结算。</p>
+<p>（二）零星报销结算</p>
+<p>对于被保险人发生的不满足“一站式”结算情形且符合理赔条件的医疗费用，实行零星报销理赔。在符合青岛市基本医疗保险等相关政策规定的前提下，如被保险人因特殊原因在本市或异地就医未能及时进行医保联网结算的，需到医保经办机构的服务窗口提交资料进行医保结算申请，同步进行“琴岛e保”的报销结算。</p>
+<p>（三）特药/特材理赔约定及流程</p>
+<p>1.关于特药/特材费用保险金申请及给付的约定：</p>
+<p>（1）特药/特材处方开具：<strong>使用药品或耗材的处方必须在保险期间内由青岛市基本医疗保险定点医院指定责任医师开具，且属于被保险人当前治疗必备的药品或耗材，每次处方药剂量或耗材使用量不超过壹个月，且处方未超出药品或耗材说明书的适应症范围。处方有效期的规定按国家或当地政府部门相关处方管理规定。根据原卫生部颁发的《处方管理办法》第十八条：处方开具当日有效。特殊情况下需延长有效期的，由开具处方的医师注明有效期限，但有效期限最长不得超过3天。</strong></p>
+<p>（2）特药/特材申请：<strong>如开具处方的医院无相应药品或耗材，则须凭处方及其被审核通过后获取的购买凭证等材料前往本产品指定药店购买药品或耗材,本产品也支持预约上门服务。在指定药店购买的符合本产品约定的特药/特材费用，且已经申请通过特药/特材直付，被保险人（或受益人）仅需支付个人承担的费用。</strong></p>
+<p>（3）处方审核：<strong>本产品将按照约定的保险责任对被保险人的特药/特材处方进行审核，特药/特材需符合《特药/特材目录》中约定的商品名、药品名、耗材名、厂家、适应症及限用约定。根据被保险人的特药/特材处方等相关申请材料，如果审核出现以下特殊问题，本产品将有权要求补充其他与特药/特材处方审核相关的医学材料。特药/特材处方审核的特殊情况包括但不限于：①提交的被保险人门诊（药房）特药/特材相关的医学材料，不足以支持特药/特材处方的开具或审核；②医学材料中相关的科学检验方法报告结果不支持特药/特材处方的开具。如特药/特材处方审核未通过，本产品不承担相关保险责任。</strong></p>
+<p>2.理赔申请：</p>
+<p>关注“琴岛e保”微信公众号，依次点击服务中心-特药特材申请，上传影像理赔材料。</p>
+<p>3.药店购买直付领取流程：</p>
+<p>被保险人申请特药/特材合理性审核通过之后，由特药/特材服务专员将电话联系被保险人选择领取方式。</p>
+<p>（1)到店自取：如被保险人选择自行前往指定药店领取，将由特药/特材服务专员电话联系被保险人确认领取地址并发送领取凭证，被保险人需携带处方、领取凭证等相关材料至“琴岛e保”指定药店进行领取。指定药店清单详见附件4。</p>
+<p>（2)上门服务：如被保险人选择上门服务，特药/特材服务专员将电话联系被保险人确认上门服务相关信息并发送领取凭证，被保险人需在收到特药/特材时提交相关材料。</p>
+<p>4.理赔材料：</p>
+<p>（1)被保险人身份证件（若被保险人是未成年人，需同时提供监护人身份证件、关系证明）</p>
+<p>（2)住院病历／出院小结</p>
+<p>（住院病历含病案首页、入院记录、出院小结、影像检查报告等）</p>
+<p>（3)病理诊断报告</p>
+<p>（4) 特药/特材处方</p>
+<p>（5)免疫组化／基因检测报告</p>
+<p>（6)相关特药/特材发票原件由承保公司收取，对不属于保险责任赔付的，退回发票原件</p>
+<p>更多资讯请关注“琴岛e保”微信公众号，或承保公司微信公众号（中国人寿保险青岛市分公司服务号、泰康养老青岛分公司、平安养老险青岛分公司、太平养老青岛分公司、青岛人保健康）。</p>
+<p><strong>【重要提示】</strong></p>
+<p><strong>1.监护人须确定对所填未成年被保险人拥有法定监护权，确定所填未成年被保险人的信息真实有效，确定承担为该未成年被保险人支付保费、办理保全理赔等义务；如有不实，该监护人将承担一切法律后果。</strong></p>
+<p><strong>2. 非一站式结算情形下：若被保险人是未成年人，需同时提供监护人身份证件、关系证明；若被保险人身故，需同时提供医学死亡证明、受益人关系证明；若被保险人委托他人申请理赔，需签署授权委托书，授权委托书须理赔申请资格人亲笔签名，且需注明授权范围或事项，并提供委托双方身份证件。</strong></p>
+<p><strong>3.请留意《正面药品清单》、《特药/特材目录》各药品、特药特材对应的商品名及生产厂家、适应症等信息，确定您使用的药品的商品名、通用名、支付范围等符合约定。为了更好的向被保险人提供保障，结合青岛市基本医疗保险目录调整及市场变化等情况，本产品将保留对《正面药品清单》、《特药/特材目录》调整的权利，如有调整将在“琴岛e保”公众号公示。</strong></p>
+<p><strong>4.受理理赔申请时效：医院就医费用理赔实时结算，药店购药费用理赔两个工作日内受理。</strong></p>
+<p><strong>5.指定医疗机构，是指中华人民共和国境内（不包括香港、澳门、台湾地区）的医保定点医疗机构。</strong></p>
+<p><strong>6.责任医师指同时满足以下四项资格条件的医师：</strong></p>
+<p><strong>（1)具有有效的中华人民共和国《医师资格证书》；</strong></p>
+<p><strong>（2)具有有效的中华人民共和国《医师执业证书》，并按期到相关部门登记注册；</strong></p>
+<p><strong>（3)具有有效的中华人民共和国主治医师或者主治医师以上职称的《医师职称证书》；</strong></p>
+<p><strong>（4)确诊或开具处方时，属于与处方适应症治疗相关的临床科室。</strong></p>
+<p><strong>7.指定药店：“琴岛e保”特药/特材指定药店提供药品直付和送药上门等服务，指定药店清单详见附件4。</strong></p>
+<p><strong>8.</strong> <strong>起付线：按保险年度累计，从2021年7月1日至2022年6月30日累计。</strong></p>
+<p><strong>附件1：青岛市医保规定的门诊慢特病病种</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>序号</th>
+<th>病 种</th>
+<th>序号</th>
+<th>病 种</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>高血压病合并心、脑、肾等并发症</td>
+<td>33</td>
+<td>颅内良性肿瘤综合治疗</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>脑卒中后遗症</td>
+<td>34</td>
+<td>骨髓增生异常综合征</td>
+</tr>
+<tr class="even">
+<td>3</td>
+<td>慢性心功能不全</td>
+<td>35</td>
+<td>真性红细胞增多症</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>支气管哮喘</td>
+<td>36</td>
+<td>原发性血小板增多症</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>糖尿病合并心、脑、肾、眼等并发症</td>
+<td>37</td>
+<td>原发性骨髓纤维化</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>特发性肺纤维化</td>
+<td>38</td>
+<td>过敏性紫癜并肾病</td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>再生障碍性贫血</td>
+<td>39</td>
+<td>原发性免疫性血小板减少症</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>支气管扩张症</td>
+<td>40</td>
+<td>重症肌无力</td>
+</tr>
+<tr class="even">
+<td>9</td>
+<td>肾病综合征</td>
+<td>41</td>
+<td>尿崩症</td>
+</tr>
+<tr class="odd">
+<td>10</td>
+<td>慢性肾功能不全</td>
+<td>42</td>
+<td>皮质醇增多症</td>
+</tr>
+<tr class="even">
+<td>11</td>
+<td>心、脑、大动脉血管疾病术后综合治疗</td>
+<td>43</td>
+<td>原发性醛固酮增多症</td>
+</tr>
+<tr class="odd">
+<td>12</td>
+<td>类风湿性关节炎(活动期)</td>
+<td>44</td>
+<td>结节性多动脉炎</td>
+</tr>
+<tr class="even">
+<td>13</td>
+<td>系统性红斑狼疮</td>
+<td>45</td>
+<td>白塞氏病</td>
+</tr>
+<tr class="odd">
+<td>14</td>
+<td>癫痫</td>
+<td>46</td>
+<td>系统性硬化症</td>
+</tr>
+<tr class="even">
+<td>15</td>
+<td>帕金森氏病</td>
+<td>47</td>
+<td>多发性（皮）肌炎</td>
+</tr>
+<tr class="odd">
+<td>16</td>
+<td>肢端坏疽</td>
+<td>48</td>
+<td>慢性丙型病毒性肝炎</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>股骨头缺血性坏死</td>
+<td>49</td>
+<td>肢端肥大症</td>
+</tr>
+<tr class="odd">
+<td>18</td>
+<td>自身免疫性肝病</td>
+<td>50</td>
+<td>脂膜炎</td>
+</tr>
+<tr class="even">
+<td>19</td>
+<td>慢性乙型病毒肝炎、肝硬化</td>
+<td>51</td>
+<td>多发性硬化</td>
+</tr>
+<tr class="odd">
+<td>20</td>
+<td>干燥综合征</td>
+<td>52</td>
+<td>运动神经元病</td>
+</tr>
+<tr class="even">
+<td>21</td>
+<td>强直性脊柱炎</td>
+<td>53</td>
+<td>结核病</td>
+</tr>
+<tr class="odd">
+<td>22</td>
+<td>克罗恩病</td>
+<td>54</td>
+<td>肝豆状核变性</td>
+</tr>
+<tr class="even">
+<td>23</td>
+<td>戈谢氏病</td>
+<td>55</td>
+<td>血友病</td>
+</tr>
+<tr class="odd">
+<td>24</td>
+<td>溃疡性结（直）肠炎</td>
+<td>56</td>
+<td>原发性肺动脉高压</td>
+</tr>
+<tr class="even">
+<td>25</td>
+<td>艾滋病</td>
+<td>57</td>
+<td>苯丙酮尿症</td>
+</tr>
+<tr class="odd">
+<td>26</td>
+<td>中重度慢性阻塞性肺病</td>
+<td>58</td>
+<td>生长激素治疗类矮身材疾病</td>
+</tr>
+<tr class="even">
+<td>27</td>
+<td>精神病</td>
+<td>59</td>
+<td>原发性免疫球蛋白缺乏症</td>
+</tr>
+<tr class="odd">
+<td>28</td>
+<td>尿毒症透析治疗</td>
+<td>60</td>
+<td>成人中重度斑块状银屑病</td>
+</tr>
+<tr class="even">
+<td>29</td>
+<td>恶性肿瘤</td>
+<td>61</td>
+<td>成人中重度特应性皮炎</td>
+</tr>
+<tr class="odd">
+<td>30</td>
+<td>器官移植</td>
+<td>62</td>
+<td>C型尼曼匹克病</td>
+</tr>
+<tr class="even">
+<td>31</td>
+<td>白血病</td>
+<td>63</td>
+<td>亨廷顿舞蹈病</td>
+</tr>
+<tr class="odd">
+<td>32</td>
+<td>溶血性贫血</td>
+<td>64</td>
+<td>成人迟发性运动障碍</td>
+</tr>
+</tbody>
+</table>
+<h1 id="附件2正面药品清单">附件2：正面药品清单</h1>
+<table>
+<thead>
+<tr class="header">
+<th>序号</th>
+<th>药品名称</th>
+<th>剂型</th>
+<th>注册规格</th>
+<th>包装单位</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>阿归养血胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45克</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>阿胶当归胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>阿利吉仑片</td>
+<td>片剂</td>
+<td>150mg(以阿利吉仑计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>阿米卡星洗剂</td>
+<td>洗剂</td>
+<td>0.25%</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>阿替洛尔注射液</td>
+<td>注射剂</td>
+<td>10ml:5mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>阿托品异丙嗪注射液</td>
+<td>注射剂</td>
+<td>2ml:硫酸阿托品0.5mg,盐酸异丙嗪25mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>阿西美辛缓释胶囊</td>
+<td>胶囊剂(缓释)</td>
+<td>90mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>艾司唑仑注射液</td>
+<td>注射剂</td>
+<td>1ml:2mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>氨茶碱口服溶液</td>
+<td>口服溶液剂</td>
+<td>21mg/ml(以无水氨茶碱计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>氨酚麻美干混悬剂</td>
+<td>干混悬剂</td>
+<td>每包含对乙酰氨基酚80mg、盐酸伪麻黄碱7.5mg、无水氢溴酸右美沙芬2.5mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>氨糖美辛缓释胶囊</td>
+<td>胶囊剂</td>
+<td>每粒含盐酸氨基葡萄糖150mg与吲哚美辛50mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>氨溴特罗口服溶液</td>
+<td>口服溶液剂</td>
+<td>1ml:盐酸氨溴索1.5mg与盐酸克仑特罗1ug</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>氨溴特罗片</td>
+<td>片剂</td>
+<td>本品为复方制剂,每片含盐酸氨溴索30mg和盐酸克仑特罗0.02mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>奥利司他胶囊</td>
+<td>胶囊剂</td>
+<td>120mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>奥利司他胶囊</td>
+<td>胶囊剂</td>
+<td>60mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>奥沙拉秦钠胶囊</td>
+<td>胶囊剂</td>
+<td>0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>奥替溴铵片</td>
+<td>片剂</td>
+<td>40mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>奥硝唑阴道泡腾片</td>
+<td>片剂</td>
+<td>0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>巴柳氮钠胶囊</td>
+<td>胶囊剂</td>
+<td>750mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>巴柳氮钠片</td>
+<td>片剂</td>
+<td>0.5g(按C17H13N3Na2O6计算)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>21</td>
+<td>巴洛沙星胶囊</td>
+<td>胶囊剂</td>
+<td>0.1g(以C20H24FN3O4计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>白柏胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>23</td>
+<td>白癜风丸</td>
+<td>丸剂(包衣浓缩水丸)/丸剂(浓缩丸)</td>
+<td>每10丸重2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>24</td>
+<td>白蒲黄胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>25</td>
+<td>白石清热颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>百安洗液</td>
+<td>洗剂</td>
+<td>每瓶装100ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>27</td>
+<td>百咳静颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装1.5g(相当于饮片6.9g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>28</td>
+<td>百咳静颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g(相当于饮片23g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>29</td>
+<td>柏洁洗剂</td>
+<td>洗剂</td>
+<td>每瓶装200ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>30</td>
+<td>斑蝥素乳膏</td>
+<td>乳膏剂</td>
+<td>4g:1mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>31</td>
+<td>保儿宁糖浆</td>
+<td>糖浆剂</td>
+<td>(1)每支装10ml(每1ml相当于饮片1g)(2)每瓶装100ml(每1ml相当于饮片1g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>32</td>
+<td>保胎灵胶囊</td>
+<td>胶囊剂</td>
+<td>0.45g/粒</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>33</td>
+<td>保胎灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>34</td>
+<td>保胃胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>35</td>
+<td>贝美素噻吗洛尔滴眼液</td>
+<td>滴眼剂</td>
+<td>3ml:贝美前列素0.9mg与噻吗洛尔15mg(相当于20.4mg马来酸噻吗洛尔)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>36</td>
+<td>苯酰甲硝唑干混悬剂</td>
+<td>口服混悬剂</td>
+<td>1g:苯酰甲硝唑0.64g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>37</td>
+<td>苯扎氯铵溶液</td>
+<td>外用溶液剂</td>
+<td>150ml:0.15g(0.10%)</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>38</td>
+<td>苯扎氯铵溶液</td>
+<td>外用溶液剂</td>
+<td>500ml:0.05g(0.01%)</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>39</td>
+<td>鼻渊软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.34g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>40</td>
+<td>吡罗昔康贴片</td>
+<td>贴剂</td>
+<td>48mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>41</td>
+<td>痹克颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>42</td>
+<td>痹克片</td>
+<td>片剂(薄膜衣片)</td>
+<td>每片重0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>43</td>
+<td>苄达赖氨酸滴眼液</td>
+<td>滴眼剂</td>
+<td>5ml:25mg;8ml:40mg</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>44</td>
+<td>冰七胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>45</td>
+<td>丙酸氯倍他索搽剂</td>
+<td>搽剂</td>
+<td>20ml:4mg</td>
+<td>支</td>
+</tr>
+<tr class="even">
+<td>46</td>
+<td>丙戊酰胺片</td>
+<td>片剂</td>
+<td>0.2g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>47</td>
+<td>补肾健骨胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.58g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>48</td>
+<td>布洛芬注射液</td>
+<td>注射剂</td>
+<td>4ml:0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>49</td>
+<td>布洛芬注射液</td>
+<td>注射剂</td>
+<td>8ml:0.8g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>50</td>
+<td>参柏舒心胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.42g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>51</td>
+<td>参柏洗液</td>
+<td>洗剂</td>
+<td>每1ml相当于饮片0.81g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>52</td>
+<td>参柴肝康软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>53</td>
+<td>参皇软膏</td>
+<td>软膏剂</td>
+<td>每支装30g；每支装36g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>54</td>
+<td>参梅养胃颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装16g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>55</td>
+<td>参茸强肾片</td>
+<td>片剂/片剂(糖衣)</td>
+<td>片芯重0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>56</td>
+<td>参苏口服液</td>
+<td>合剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>57</td>
+<td>参维灵片</td>
+<td>片剂(薄膜衣)</td>
+<td>复方</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="even">
+<td>58</td>
+<td>柴黄清热颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装4g(无蔗糖)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>59</td>
+<td>产妇安胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>60</td>
+<td>产妇安胶囊</td>
+<td>硬胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>61</td>
+<td>产妇安口服液</td>
+<td>合剂</td>
+<td>每支装25ml,每瓶装100ml</td>
+<td>支</td>
+</tr>
+<tr class="even">
+<td>62</td>
+<td>产后康膏</td>
+<td>煎膏剂</td>
+<td>每瓶装60g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>63</td>
+<td>肠胃散</td>
+<td>散剂</td>
+<td>每袋装2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>64</td>
+<td>沉香化气胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>65</td>
+<td>陈香露白露片</td>
+<td>片剂/片剂(素片)</td>
+<td>每片重0.3g(含次硝酸铋0.066g)</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>66</td>
+<td>陈香露白露片</td>
+<td>片剂</td>
+<td>每片重0.5g(含次硝酸铋0.110g)</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>67</td>
+<td>穿王消炎片</td>
+<td>片剂</td>
+<td>每片重0.23g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>68</td>
+<td>穿心莲滴丸</td>
+<td>滴丸剂</td>
+<td>每丸重42mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>69</td>
+<td>穿心莲内酯分散片</td>
+<td>片剂</td>
+<td>每片含穿心莲内酯50mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>70</td>
+<td>穿心莲内酯软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒含穿心莲内酯50mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>71</td>
+<td>喘舒片</td>
+<td>片剂</td>
+<td>每片含盐酸克仑特罗10ug</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>72</td>
+<td>慈航胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>73</td>
+<td>雌三醇栓</td>
+<td>栓剂</td>
+<td>0.5mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>74</td>
+<td>刺五加脑灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装０.４ｇ</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>75</td>
+<td>促肝细胞生长素颗粒</td>
+<td>颗粒剂</td>
+<td>5g:50mg(多肽)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>76</td>
+<td>醋氨己酸锌胶囊</td>
+<td>胶囊剂</td>
+<td>0.15g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>77</td>
+<td>醋氯芬酸缓释片</td>
+<td>片剂</td>
+<td>0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>78</td>
+<td>醋酸钙颗粒</td>
+<td>颗粒剂</td>
+<td>0.2g(含糖型、无糖型)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>79</td>
+<td>醋酸钙颗粒</td>
+<td>颗粒剂</td>
+<td>0.6g(含糖型;无糖型)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>80</td>
+<td>达肺草</td>
+<td>散剂</td>
+<td>每袋重36g(粗粉12g,药草24g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>81</td>
+<td>达那唑栓</td>
+<td>栓剂</td>
+<td>50mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>82</td>
+<td>达塞布韦钠片</td>
+<td>片剂</td>
+<td>250mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>83</td>
+<td>大黄碳酸氢钠片</td>
+<td>片剂</td>
+<td>大黄0.15克,碳酸氢钠0.15克,薄荷油0.001ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>84</td>
+<td>大明胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>85</td>
+<td>大七厘胶囊</td>
+<td>胶囊剂</td>
+<td>每粒重0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>86</td>
+<td>大七厘片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>87</td>
+<td>大蒜肠溶片</td>
+<td>片剂(肠溶)</td>
+<td>10mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>88</td>
+<td>丹鳖胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.38g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>89</td>
+<td>丹归胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g(相当于饮片2.0g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>90</td>
+<td>丹青胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.36g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>91</td>
+<td>胆石通利片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>92</td>
+<td>胆益宁片</td>
+<td>片剂</td>
+<td>每片含胆酸钠0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>93</td>
+<td>蛋白琥珀酸铁口服溶液</td>
+<td>口服溶液剂</td>
+<td>15ml:40mg(以铁计)</td>
+<td>瓶/盒</td>
+</tr>
+<tr class="even">
+<td>94</td>
+<td>当归益血口服液</td>
+<td>合剂</td>
+<td>每支装10毫升</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>95</td>
+<td>荡石胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>96</td>
+<td>得生胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>97</td>
+<td>灯台叶颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>98</td>
+<td>癫痫宁片</td>
+<td>片剂</td>
+<td>每片相当于原药材1.62g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>99</td>
+<td>跌打生骨胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>100</td>
+<td>跌打生骨片</td>
+<td>片剂</td>
+<td>每片重0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>101</td>
+<td>丁二酸洛沙平胶囊</td>
+<td>胶囊剂</td>
+<td>34mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>102</td>
+<td>丁硼乳膏</td>
+<td>软膏剂</td>
+<td>65克</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>103</td>
+<td>丁酸氯倍他松乳膏</td>
+<td>乳膏剂</td>
+<td>0.05%(15g:7.5mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>104</td>
+<td>东方胃药胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>105</td>
+<td>杜仲壮骨胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>106</td>
+<td>杜仲壮骨丸</td>
+<td>丸剂(水丸)</td>
+<td>每丸重0.19g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>107</td>
+<td>度他雄胺软胶囊</td>
+<td>胶囊剂</td>
+<td>0.5mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>108</td>
+<td>多糖蛋白片</td>
+<td>片剂(糖衣片)</td>
+<td>0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>109</td>
+<td>厄多司坦胶囊</td>
+<td>胶囊剂</td>
+<td>0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>110</td>
+<td>儿宝颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10克</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>111</td>
+<td>儿宝颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5克；每袋装4.5g(低蔗糖型)；每袋装9g(低蔗糖型)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>112</td>
+<td>儿咳糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装10毫升</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>113</td>
+<td>尔可平糖浆</td>
+<td>糖浆剂</td>
+<td>100ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>114</td>
+<td>耳聋片</td>
+<td>片剂</td>
+<td>每片重0.54g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>115</td>
+<td>二丁胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>116</td>
+<td>二丁片</td>
+<td>片剂</td>
+<td>每片重0.55g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>117</td>
+<td>二乙酰氨乙酸乙二胺氯化钠注射液</td>
+<td>注射剂</td>
+<td>100ml:二乙酰氨乙酸乙二胺0.6g与氯化钠0.9g</td>
+<td>袋</td>
+</tr>
+<tr class="even">
+<td>118</td>
+<td>二乙酰氨乙酸乙二胺氯化钠注射液</td>
+<td>注射剂</td>
+<td>250ml:二乙酰氨乙酸乙二胺0.6g与氯化钠2.25g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>119</td>
+<td>二乙酰氨乙酸乙二胺氯化钠注射液</td>
+<td>注射剂(注射液)</td>
+<td>100ml:二乙酰氨乙酸乙二胺0.2g与氯化钠0.9g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>120</td>
+<td>法莫替丁颗粒</td>
+<td>颗粒剂</td>
+<td>2g:20mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>121</td>
+<td>防参止痒颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>122</td>
+<td>芬布芬胶囊</td>
+<td>胶囊剂</td>
+<td>0.15g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>123</td>
+<td>枫蓼肠胃康分散片</td>
+<td>片剂(分散)</td>
+<td>每片重0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>124</td>
+<td>肤痒胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.36g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>125</td>
+<td>肤痒胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>126</td>
+<td>氟芬那酸丁酯软膏</td>
+<td>软膏剂</td>
+<td>10g:0.5g</td>
+<td>支</td>
+</tr>
+<tr class="odd">
+<td>127</td>
+<td>妇宝颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g;每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>128</td>
+<td>妇肤康喷雾剂</td>
+<td>喷雾剂</td>
+<td>每瓶装30ml，50ml，100ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>129</td>
+<td>妇康宝颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>130</td>
+<td>妇康宝口服液</td>
+<td>合剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>131</td>
+<td>妇科止血灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>132</td>
+<td>妇科止血灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>133</td>
+<td>妇乐糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>134</td>
+<td>妇宁栓</td>
+<td>栓剂</td>
+<td>每粒重1.6g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>135</td>
+<td>妇平胶囊</td>
+<td>胶囊剂</td>
+<td>0.45g/粒</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>136</td>
+<td>妇炎康复片</td>
+<td>片剂</td>
+<td>基片重0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>137</td>
+<td>妇炎康复片</td>
+<td>片剂</td>
+<td>每片重0.9g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>138</td>
+<td>妇炎康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.32g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>139</td>
+<td>妇炎泰颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>140</td>
+<td>附马开痹片</td>
+<td>片剂</td>
+<td>片芯重0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>141</td>
+<td>复方氨林巴比妥注射液</td>
+<td>注射剂</td>
+<td>2ml:氨基比林0.1g,安替比林40mg,巴比妥18mg</td>
+<td>瓶/支/盒</td>
+</tr>
+<tr class="even">
+<td>142</td>
+<td>复方氨肽素片</td>
+<td>片剂</td>
+<td>0.25g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>143</td>
+<td>复方北豆根氨酚那敏片</td>
+<td>片剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>144</td>
+<td>复方丙谷胺西咪替丁片</td>
+<td>片剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>145</td>
+<td>复方丙酸氯倍他索软膏</td>
+<td>软膏剂</td>
+<td>10g：丙酸氯倍他索5mg,维A酸2.5mg；20g：丙酸氯倍他索10mg,维A酸5mg</td>
+<td>盒/支</td>
+</tr>
+<tr class="even">
+<td>146</td>
+<td>复方布洛芬片</td>
+<td>片剂</td>
+<td>每片含布洛芬400mg,对乙酰氨基酚325mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>147</td>
+<td>复方穿心莲片</td>
+<td>片剂/片剂(薄膜衣)</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>148</td>
+<td>复方春砂颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>149</td>
+<td>复方醋酸棉酚片</td>
+<td>片剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>150</td>
+<td>复方丹蛭片</td>
+<td>薄膜衣片</td>
+<td>每片重0.36g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>151</td>
+<td>复方胆氨片</td>
+<td>片剂(糖衣)</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>152</td>
+<td>复方蛋氨酸胆碱片</td>
+<td>片剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>153</td>
+<td>复方地茯口服液</td>
+<td>合剂</td>
+<td>每瓶装10毫升,每瓶装100毫升</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>154</td>
+<td>复方丁香罗勒口服混悬液</td>
+<td>口服混悬剂</td>
+<td>120ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>155</td>
+<td>复方儿茶胶囊</td>
+<td>胶囊剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>156</td>
+<td>复方福尔可定口服溶液</td>
+<td>口服溶液剂</td>
+<td>每1ml含福尔可定1.0mg,盐酸曲普利啶0.12mg,盐酸伪麻黄碱3.0mg,愈创木酚甘油醚10.0mg,海葱流浸膏0.001ml,远志流浸膏0.001ml</td>
+<td>袋/盒</td>
+</tr>
+<tr class="odd">
+<td>157</td>
+<td>复方福尔可定口服溶液</td>
+<td>口服溶液剂</td>
+<td>每5ml含福尔可定5.0mg,盐酸曲普利啶0.6mg,盐酸伪麻黄碱15.0mg和愈创木酚甘油醚50.0mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>158</td>
+<td>复方甘草氯化铵糖浆</td>
+<td>糖浆剂</td>
+<td>复方</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>159</td>
+<td>复方肝素钠尿囊素凝胶</td>
+<td>凝胶剂</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>160</td>
+<td>复方岗松洗液</td>
+<td>洗剂</td>
+<td>每瓶装150ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>161</td>
+<td>复方枸橼酸阿尔维林软胶囊</td>
+<td>胶囊剂</td>
+<td>枸橼酸阿尔维林60mg,西甲硅油300mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>162</td>
+<td>复方瓜子金颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10克(相当于饮片14g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>163</td>
+<td>复方瓜子金颗粒(降糖)</td>
+<td>颗粒剂</td>
+<td>每袋装14g(相当于饮片28g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>164</td>
+<td>复方蛤青胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>165</td>
+<td>复方鸡内金片</td>
+<td>片剂</td>
+<td>每片重0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>166</td>
+<td>复方鸡内金片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.26g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>167</td>
+<td>复方甲麻口服溶液</td>
+<td>口服溶液剂</td>
+<td>60ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>168</td>
+<td>复方苦木消炎分散片</td>
+<td>片剂</td>
+<td>每片重0.28g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>169</td>
+<td>复方利多卡因乳膏</td>
+<td>乳膏剂</td>
+<td>每g含丙胺卡因25mg与利多卡因25mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>170</td>
+<td>复方联苯双酯片</td>
+<td>片剂</td>
+<td>联苯双酯15.4mg;肌苷9.6mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>171</td>
+<td>复方硫酸亚铁颗粒</td>
+<td>颗粒剂</td>
+<td>每粒胶囊含硫酸亚铁(FeSO4·7H2O)50毫克,含维生素C30毫克</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>172</td>
+<td>复方马勃水杨酸散</td>
+<td>散剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>173</td>
+<td>复方米非司酮片</td>
+<td>片剂</td>
+<td>每片含米非司酮30mg,双炔失碳酯5mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>174</td>
+<td>复方木鸡颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g；每袋装4g(无糖型)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>175</td>
+<td>复方木香铝镁片</td>
+<td>片剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>176</td>
+<td>复方木香小檗碱片</td>
+<td>片剂(糖衣)</td>
+<td>小檗碱50mg,木香0.3125g,吴茱萸0.125g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>177</td>
+<td>复方匹可硫酸钠颗粒</td>
+<td>颗粒剂</td>
+<td>每袋含匹可硫酸钠10mg、氧化镁3.5g和无水枸橼酸12.0g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>178</td>
+<td>复方曲尼司特片</td>
+<td>片剂</td>
+<td>每片含曲尼司特80mg、硫酸沙丁胺醇2.4mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>179</td>
+<td>复方乳酸钠山梨醇注射液</td>
+<td>注射剂</td>
+<td>500ml</td>
+<td>袋/瓶</td>
+</tr>
+<tr class="even">
+<td>180</td>
+<td>复方双氯芬酸钠注射液</td>
+<td>注射剂</td>
+<td>2ml:双氯芬酸钠25mg,对乙酰氨基酚0.15g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>181</td>
+<td>复方斯亚旦生发酊</td>
+<td>酊剂</td>
+<td>每瓶装36ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>182</td>
+<td>复方西羚解毒胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.38g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>183</td>
+<td>复方夏枯草降压颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g(相当于饮片18.75g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>184</td>
+<td>复方消化酶片</td>
+<td>片剂</td>
+<td>243.6mg/片,每片含生物淀粉酶50mg、脂肪酶15mg、蛋白酶20mg、纤维素酶30mg、肠溶胰酶颗粒78.6mg、熊去氧胆酸10mg、二甲硅油40mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>185</td>
+<td>复方消旋山莨菪碱滴眼液</td>
+<td>滴眼剂</td>
+<td>8ml:消旋山莨菪碱1.6mg,硫酸软骨素160mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>186</td>
+<td>复方羊角颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装8g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>187</td>
+<td>复方一枝黄花喷雾剂</td>
+<td>喷雾剂</td>
+<td>每瓶装25ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>188</td>
+<td>复方益母草胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g(相当于饮片3.3g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>189</td>
+<td>复方吲哚美辛达克罗宁贴膏</td>
+<td>贴膏剂</td>
+<td>6cm×10cm</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>190</td>
+<td>复方吲哚美辛乳膏</td>
+<td>乳膏剂</td>
+<td>4%</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>191</td>
+<td>复方鱼肝油氧化锌软膏</td>
+<td>软膏剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>192</td>
+<td>复方樟脑乳膏</td>
+<td>乳膏剂</td>
+<td>每克含樟脑40毫克,薄荷脑30毫克,水杨酸甲酯20毫克,盐酸苯海拉明10毫克,葡萄糖酸氯己定2毫克,甘草次酸3毫克</td>
+<td>支</td>
+</tr>
+<tr class="odd">
+<td>193</td>
+<td>复方樟脑乳膏</td>
+<td>软膏剂</td>
+<td>30g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>194</td>
+<td>复合凝乳酶胶囊</td>
+<td>胶囊剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>195</td>
+<td>富马酸卢帕他定片</td>
+<td>片剂</td>
+<td>10mg(以C26H26ClN3计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>196</td>
+<td>富马酸氯马斯汀口服溶液</td>
+<td>口服溶液剂</td>
+<td>60ml:8.04mg</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>197</td>
+<td>富马酸亚铁多库酯钠胶囊</td>
+<td>胶囊剂</td>
+<td>富马酸亚铁0.15g,多库酯钠0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>198</td>
+<td>馥感啉口服液</td>
+<td>合剂</td>
+<td>每1ml相当于饮片1.0g</td>
+<td>盒/支</td>
+</tr>
+<tr class="odd">
+<td>199</td>
+<td>钆塞酸二钠注射液</td>
+<td>注射剂</td>
+<td>10ml预装玻璃注射器,每1ml中含钆塞酸二钠181.43mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>200</td>
+<td>甘氨酸冲洗液</td>
+<td>冲洗剂</td>
+<td>2000ml:30g</td>
+<td>袋</td>
+</tr>
+<tr class="odd">
+<td>201</td>
+<td>甘草酸二钠</td>
+<td>散剂</td>
+<td>1g:0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>202</td>
+<td>甘霖洗剂</td>
+<td>洗剂</td>
+<td>(1)每瓶装80毫升;(2)每瓶装150毫升</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>203</td>
+<td>肝脾康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>204</td>
+<td>肝苏软胶囊</td>
+<td>胶囊剂(软胶囊)</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>205</td>
+<td>肝维康片</td>
+<td>片剂</td>
+<td>片芯重0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>206</td>
+<td>感冒止咳糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100毫升；每瓶装120毫升</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>207</td>
+<td>格隆溴铵吸入粉雾剂用胶囊</td>
+<td>胶囊剂</td>
+<td>50ug(以C19H28NO3计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>208</td>
+<td>隔山消积颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>209</td>
+<td>根痛平胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>210</td>
+<td>根痛平胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>211</td>
+<td>根痛平胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>212</td>
+<td>更辰胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>213</td>
+<td>宫炎康颗粒</td>
+<td>颗粒剂(无蔗糖)</td>
+<td>每袋装9g(含蔗糖);每袋装9g(无蔗糖)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>214</td>
+<td>宫炎平滴丸</td>
+<td>滴丸剂</td>
+<td>每丸重50mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>215</td>
+<td>谷氨酰胺散</td>
+<td>散剂</td>
+<td>2.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>216</td>
+<td>骨刺消痛片</td>
+<td>片剂</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>217</td>
+<td>骨筋丸胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>218</td>
+<td>骨力胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>219</td>
+<td>骨松宝片</td>
+<td>片剂</td>
+<td>每片重0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>220</td>
+<td>骨松宝片</td>
+<td>片剂</td>
+<td>每片重0.6g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>221</td>
+<td>骨增消胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>222</td>
+<td>冠脉通片</td>
+<td>片剂</td>
+<td>每片重0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>223</td>
+<td>冠心康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>224</td>
+<td>冠心泰丸</td>
+<td>丸剂(浓缩丸)</td>
+<td>每袋装6g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>225</td>
+<td>归麻止痛膏</td>
+<td>橡胶膏剂</td>
+<td>7cm×10cm</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>226</td>
+<td>桂蒲肾清胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>227</td>
+<td>海丹胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>228</td>
+<td>海墨止血胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.33g(相当于饮片0.25g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>229</td>
+<td>寒痹停片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.33g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>230</td>
+<td>蒿白伤湿气雾剂</td>
+<td>气雾剂</td>
+<td>每瓶内容物重50g,含药液30g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>231</td>
+<td>喉疾灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.25g</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="even">
+<td>232</td>
+<td>虎驹乙肝胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>233</td>
+<td>虎杖叶胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>234</td>
+<td>琥乙红霉素干混悬剂</td>
+<td>口服混悬剂</td>
+<td>按琥乙红霉素计:0.1g(10万单位)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>235</td>
+<td>花藤子颗粒</td>
+<td>颗粒剂</td>
+<td>4g/袋</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>236</td>
+<td>环吡酮胺阴道栓</td>
+<td>栓剂</td>
+<td>0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>237</td>
+<td>环硅酸锆钠散</td>
+<td>散剂</td>
+<td>5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>238</td>
+<td>环索奈德气雾剂</td>
+<td>气雾剂</td>
+<td>每瓶100揿,每揿含环索奈德100ug</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>239</td>
+<td>环索奈德吸入气雾剂</td>
+<td>吸入气雾剂</td>
+<td>每瓶100揿,每揿含环索奈德100ug</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>240</td>
+<td>黄疸茵陈颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>241</td>
+<td>黄芩苷胶囊</td>
+<td>胶囊剂</td>
+<td>0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>242</td>
+<td>黄芩茎叶解毒胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.36g(含黄芩茎叶总黄酮以总黄酮计150mg)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>243</td>
+<td>黄藤素胶囊</td>
+<td>胶囊剂</td>
+<td>每粒含黄藤素300mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>244</td>
+<td>黄藤素胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.33g(含盐酸巴马汀0.3g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>245</td>
+<td>黄藤素软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g(含盐酸巴马汀0.1g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>246</td>
+<td>黄英咳喘糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>247</td>
+<td>黄蛭益肾胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>248</td>
+<td>回心康片</td>
+<td>薄膜衣片</td>
+<td>每片重0.36g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>249</td>
+<td>惠血生片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.52g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>250</td>
+<td>活力源片</td>
+<td>薄膜衣片/片剂</td>
+<td>每片重0.26g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>251</td>
+<td>活力源片</td>
+<td>片剂(糖衣,薄膜衣)</td>
+<td>(1)糖衣片:片芯重0.25g (2)薄膜衣片:每片重0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>252</td>
+<td>活络消痛胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>253</td>
+<td>活血解痛膏</td>
+<td>膏药</td>
+<td>每张净重9g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>254</td>
+<td>活血壮筋丸</td>
+<td>丸剂</td>
+<td>每10丸重1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>255</td>
+<td>藿杞补肾片</td>
+<td>片剂</td>
+<td>每片重0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>256</td>
+<td>藿香正气合剂</td>
+<td>合剂</td>
+<td>每支装10毫升</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>257</td>
+<td>肌苷片</td>
+<td>片剂</td>
+<td>0.2g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>258</td>
+<td>加味烂积丸</td>
+<td>丸剂(水丸)</td>
+<td>每10粒重1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>259</td>
+<td>甲砜霉素颗粒</td>
+<td>颗粒剂</td>
+<td>0.25g(以甲砜霉素计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>260</td>
+<td>甲磺司特颗粒</td>
+<td>颗粒剂</td>
+<td>1g:50mg (1g本品中含有甲磺司特50mg)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>261</td>
+<td>甲硝氯己冰片阴道膨胀栓</td>
+<td>栓剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>262</td>
+<td>甲硝维参阴道膨胀栓</td>
+<td>栓剂</td>
+<td>0.5g(按甲硝唑计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>263</td>
+<td>减味牛黄解毒胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>264</td>
+<td>健宝灵片</td>
+<td>片剂</td>
+<td>每片重0.6g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>265</td>
+<td>健宝灵片</td>
+<td>片剂(素片)</td>
+<td>每片重0.62g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>266</td>
+<td>健儿乐颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>267</td>
+<td>健儿散</td>
+<td>散剂</td>
+<td>每袋装5.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>268</td>
+<td>健脾养胃颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>269</td>
+<td>降脂宁颗粒</td>
+<td>颗粒剂</td>
+<td>每袋重10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>270</td>
+<td>艽龙胶囊</td>
+<td>胶囊剂</td>
+<td>每粒含龙胆苦苷80mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>271</td>
+<td>胶体果胶铋干混悬剂</td>
+<td>干混悬剂/口服混悬剂</td>
+<td>150mg(以铋计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>272</td>
+<td>胶体酒石酸铋胶囊</td>
+<td>胶囊剂</td>
+<td>165mg(以铋计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>273</td>
+<td>胶体酒石酸铋胶囊</td>
+<td>胶囊剂</td>
+<td>55mg(以铋计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>274</td>
+<td>接骨片</td>
+<td>片剂</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>275</td>
+<td>洁肤净洗剂</td>
+<td>洗剂</td>
+<td>200ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>276</td>
+<td>洁阴康洗液</td>
+<td>洗剂</td>
+<td>每1ml相当于饮片0.1g,含丁香罗勒油3ul、薄荷脑0.8mg、冰片0.4mg</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>277</td>
+<td>结肠宁</td>
+<td>灌肠剂</td>
+<td>每瓶装5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>278</td>
+<td>结合雌激素乳膏</td>
+<td>乳膏剂</td>
+<td>1g:0.625mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>279</td>
+<td>金刚片</td>
+<td>片剂</td>
+<td>每片相当于总药材0.97g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>280</td>
+<td>金红片</td>
+<td>片剂</td>
+<td>0.45g/片</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>281</td>
+<td>金莲胃舒片</td>
+<td>薄膜衣片</td>
+<td>薄膜衣片每片重0.31g(小片)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>282</td>
+<td>金龙舒胆胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>283</td>
+<td>金钱胆通口服液</td>
+<td>合剂</td>
+<td>每支装11.8g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>284</td>
+<td>金英胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>285</td>
+<td>筋伤宁湿敷剂</td>
+<td>湿敷剂</td>
+<td>每袋含药液8克(60毫米×90毫米)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>286</td>
+<td>精制冠心片</td>
+<td>片剂(糖衣)</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>287</td>
+<td>颈康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.23g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>288</td>
+<td>颈康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>289</td>
+<td>颈康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>290</td>
+<td>颈腰康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.33g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>291</td>
+<td>净石灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>292</td>
+<td>九气拈痛丸</td>
+<td>丸剂(水丸)</td>
+<td>每袋装9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>293</td>
+<td>九味痔疮胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>294</td>
+<td>酒石酸布托啡诺鼻喷剂</td>
+<td>鼻用喷雾剂</td>
+<td>10mg/ml,每喷含酒石酸布托啡诺1mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>295</td>
+<td>酒石酸西尼必利片</td>
+<td>片剂</td>
+<td>1mg(按西尼必利计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>296</td>
+<td>橘红枇杷胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>297</td>
+<td>聚磺苯乙烯钠散</td>
+<td>散剂</td>
+<td>15g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>298</td>
+<td>聚甲酚磺醛凝胶</td>
+<td>凝胶剂</td>
+<td>25g:0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>299</td>
+<td>聚明胶肽注射液</td>
+<td>注射剂</td>
+<td>250ml:1.6g(以含氮量计)</td>
+<td>袋/瓶</td>
+</tr>
+<tr class="even">
+<td>300</td>
+<td>聚明胶肽注射液</td>
+<td>注射剂</td>
+<td>500ml:3.2g(以含氮量计)</td>
+<td>袋/瓶</td>
+</tr>
+<tr class="odd">
+<td>301</td>
+<td>聚普瑞锌颗粒</td>
+<td>颗粒剂</td>
+<td>0.5g:75mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>302</td>
+<td>聚维酮碘含漱液</td>
+<td>含漱剂</td>
+<td>250ml:2.5g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>303</td>
+<td>聚维酮碘溶液</td>
+<td>溶液剂</td>
+<td>1%</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>304</td>
+<td>聚维酮碘溶液</td>
+<td>溶液剂</td>
+<td>5%</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>305</td>
+<td>聚维酮碘溶液</td>
+<td>溶液剂</td>
+<td>7.5%</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>306</td>
+<td>聚维酮碘溶液</td>
+<td>溶液剂</td>
+<td>10%</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>307</td>
+<td>卡波姆眼用凝胶</td>
+<td>眼用制剂</td>
+<td>10g:20mg (0.2%)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>308</td>
+<td>糠酸氟替卡松维兰特罗吸入粉雾剂(Ⅱ)</td>
+<td>吸入制剂</td>
+<td>糠酸氟替卡松100ug与三苯乙酸维兰特罗(以维兰特罗计)25ug</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>309</td>
+<td>抗病毒糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装120ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>310</td>
+<td>抗病毒糖浆</td>
+<td>糖浆剂</td>
+<td>每支装20ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>311</td>
+<td>抗宫炎软胶囊</td>
+<td>胶囊剂(软胶囊)</td>
+<td>每粒装0.75g(含干浸膏0.375g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>312</td>
+<td>抗人白介素-8鼠单抗乳膏</td>
+<td>乳膏剂</td>
+<td>0.045mg/g,10g/支</td>
+<td>支</td>
+</tr>
+<tr class="odd">
+<td>313</td>
+<td>抗栓胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>314</td>
+<td>科博肽注射液</td>
+<td>注射剂</td>
+<td>2ml:70ug</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>315</td>
+<td>咳喘安口服液</td>
+<td>合剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>316</td>
+<td>咳感康口服液</td>
+<td>口服液</td>
+<td>每瓶装100ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>317</td>
+<td>咳感康口服液</td>
+<td>口服液</td>
+<td>每瓶装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>318</td>
+<td>咳露口服液</td>
+<td>口服液</td>
+<td>每瓶装120ml;每瓶装60ml;每瓶装180ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>319</td>
+<td>克比热提片</td>
+<td>片剂</td>
+<td>每片重0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>320</td>
+<td>克痹骨泰胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>321</td>
+<td>克痤隐酮凝胶</td>
+<td>凝胶剂</td>
+<td>每支装6g、15g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>322</td>
+<td>克感利咽颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装8g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>323</td>
+<td>克感利咽口服液</td>
+<td>合剂</td>
+<td>每支10ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>324</td>
+<td>克林霉素磷酸酯阴道凝胶</td>
+<td>凝胶剂</td>
+<td>5g:0.1g(按C18H33ClN2O5S计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>325</td>
+<td>克林霉素磷酸酯阴道泡腾片</td>
+<td>片剂</td>
+<td>0.1g(以C18H33ClN2O5S计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>326</td>
+<td>克洛己新片</td>
+<td>片剂</td>
+<td>每片含头孢克洛250mg与盐酸溴己新8.77mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>327</td>
+<td>坤净栓</td>
+<td>栓剂</td>
+<td>每粒装3g(含呋喃唑酮50mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>328</td>
+<td>坤灵丸</td>
+<td>丸剂(浓缩丸)</td>
+<td>每10丸重1.25g(相当于原药材2.6g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>329</td>
+<td>拉呋替丁胶囊</td>
+<td>胶囊剂</td>
+<td>10mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>330</td>
+<td>拉呋替丁胶囊</td>
+<td>胶囊剂</td>
+<td>5mg</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>331</td>
+<td>拉呋替丁颗粒</td>
+<td>颗粒剂</td>
+<td>10mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>332</td>
+<td>拉米夫定替诺福韦片</td>
+<td>片剂</td>
+<td>每片含有拉米夫定300mg和富马酸替诺福韦二吡呋酯300mg</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>333</td>
+<td>赖氨酸磷酸氢钙片</td>
+<td>片剂</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>334</td>
+<td>酪酸梭菌肠球菌三联活菌散</td>
+<td>散剂(口服)</td>
+<td>1克/包</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>335</td>
+<td>乐儿康颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装2.5克</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>336</td>
+<td>利巴韦林口服溶液</td>
+<td>口服溶液剂</td>
+<td>5ml:0.15g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>337</td>
+<td>利巴韦林气雾剂</td>
+<td>气雾剂</td>
+<td>每瓶150揿,每揿含利巴韦林0.5mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>338</td>
+<td>利肺胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>339</td>
+<td>利夫康洗剂</td>
+<td>洗剂</td>
+<td>每瓶装100ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>340</td>
+<td>莲芝消炎软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>341</td>
+<td>亮菌甲素片</td>
+<td>片剂</td>
+<td>5mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>342</td>
+<td>灵仙跌打胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.28g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>343</td>
+<td>硫酸软骨素钠片</td>
+<td>片剂</td>
+<td>0.12g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>344</td>
+<td>硫辛酸胶囊</td>
+<td>胶囊剂</td>
+<td>0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>345</td>
+<td>硫辛酸胶囊</td>
+<td>胶囊剂</td>
+<td>0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>346</td>
+<td>硫辛酸片</td>
+<td>片剂</td>
+<td>0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>347</td>
+<td>柳薄樟敏搽剂</td>
+<td>搽剂</td>
+<td>82ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>348</td>
+<td>柳烯酸溶液喷雾剂</td>
+<td>喷雾剂</td>
+<td>20ml(每瓶110喷,每喷0.14ml)</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>349</td>
+<td>柳烯酸溶液喷雾剂</td>
+<td>喷雾剂</td>
+<td>50ml(每瓶280喷,每喷0.14ml)</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>350</td>
+<td>六锐胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>351</td>
+<td>鹿川活络胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>352</td>
+<td>罗西维林片</td>
+<td>片剂</td>
+<td>10mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>353</td>
+<td>铝镁二甲硅油咀嚼片</td>
+<td>片剂</td>
+<td>氢氧化镁200mg与氢氧化铝153mg与二甲硅油18.9mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>354</td>
+<td>铝碳酸镁混悬液</td>
+<td>口服混悬剂</td>
+<td>200ml:20g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>355</td>
+<td>氯碘羟喹乳膏</td>
+<td>乳膏剂</td>
+<td>10g :0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>356</td>
+<td>氯替泼诺混悬滴眼液</td>
+<td>眼用制剂</td>
+<td>0.2%(5ml:10mg;10ml:20mg)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>357</td>
+<td>氯替泼诺妥布霉素滴眼液</td>
+<td>眼用制剂</td>
+<td>5ml:氯替泼诺25mg与妥布霉素15mg</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>358</td>
+<td>马来酸曲美布汀干混悬剂</td>
+<td>干混悬剂</td>
+<td>4g:0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>359</td>
+<td>马来酸右噻吗洛尔滴眼液</td>
+<td>滴眼剂</td>
+<td>5ml:50mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>360</td>
+<td>马尿酸乌洛托品片</td>
+<td>片剂</td>
+<td>0.5g</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>361</td>
+<td>美芬那敏铵糖浆</td>
+<td>糖浆剂</td>
+<td>1ml:氢溴酸右美沙芬0.9mg,马来酸氯苯那敏0.4mg与氯化铵6mg</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>362</td>
+<td>美索巴莫分散片</td>
+<td>片剂</td>
+<td>0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>363</td>
+<td>美索巴莫片</td>
+<td>片剂</td>
+<td>0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>364</td>
+<td>美索巴莫注射液</td>
+<td>注射剂</td>
+<td>10ml:1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>365</td>
+<td>美他多辛口服液</td>
+<td>口服溶液剂</td>
+<td>20ml:0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>366</td>
+<td>美辛唑酮红古豆醇酯栓</td>
+<td>栓剂</td>
+<td>吲哚美辛75mg,呋喃唑酮0.1g,红古豆醇酯5mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>367</td>
+<td>镁加铝咀嚼片</td>
+<td>片剂</td>
+<td>0.5g (按Al5Mg10(OH)31(SO4)2计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>368</td>
+<td>门冬氨酸钙口服溶液</td>
+<td>口服溶液剂</td>
+<td>10ml:0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>369</td>
+<td>米诺地尔搽剂</td>
+<td>搽剂</td>
+<td>100ml:2.0g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>370</td>
+<td>米诺地尔搽剂</td>
+<td>搽剂</td>
+<td>60ml:1.2g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>371</td>
+<td>米诺地尔搽剂</td>
+<td>搽剂</td>
+<td>60ml:3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>372</td>
+<td>米诺地尔酊</td>
+<td>酊剂</td>
+<td>5%(60ml:3.0g)</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>373</td>
+<td>米诺地尔喷雾剂</td>
+<td>喷雾剂</td>
+<td>60ml:3g(5%),每喷含米诺地尔7mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>374</td>
+<td>泌尿宁胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>375</td>
+<td>泌尿宁胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>376</td>
+<td>明目滋肾片</td>
+<td>片剂</td>
+<td>基片重0.3g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>377</td>
+<td>萘普待因片</td>
+<td>片剂</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>378</td>
+<td>脑力宝丸</td>
+<td>丸剂(浓缩丸)</td>
+<td>每丸(素丸)重约0.2克</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>379</td>
+<td>脑力静胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>380</td>
+<td>脑络通胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g(含盐酸托哌酮50mg)</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>381</td>
+<td>尼美舒利缓释片</td>
+<td>缓释制剂</td>
+<td>0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>382</td>
+<td>尼扎替丁分散片</td>
+<td>片剂</td>
+<td>0.15g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>383</td>
+<td>尿路康颗粒</td>
+<td>颗粒剂</td>
+<td>10g/袋</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>384</td>
+<td>牛黄消炎片</td>
+<td>片剂(薄膜衣)</td>
+<td>(糖衣)每片相当于总药材0.05g(薄膜衣)每片重0.077g(相当于总药材的0.05g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>385</td>
+<td>牛黄消炎丸</td>
+<td>丸剂(水丸)</td>
+<td>每60粒重0.3克</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>386</td>
+<td>暖宫孕子胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.32g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>387</td>
+<td>暖宫孕子胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>388</td>
+<td>暖宫孕子胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>389</td>
+<td>排石利胆片</td>
+<td>片剂</td>
+<td>每片重0.7g(相当于饮片3.75g)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>390</td>
+<td>培坤丸</td>
+<td>丸剂(小蜜丸)</td>
+<td>每45丸重9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>391</td>
+<td>喷他佐辛注射液</td>
+<td>注射剂(小容量注射剂)</td>
+<td>1ml:30mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>392</td>
+<td>硼酸冰片滴耳液</td>
+<td>滴耳剂</td>
+<td>8g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>393</td>
+<td>硼酸冰片滴耳液</td>
+<td>耳用制剂</td>
+<td>硼酸9%,冰片0.4%</td>
+<td>支</td>
+</tr>
+<tr class="even">
+<td>394</td>
+<td>硼酸氧化锌冰片软膏</td>
+<td>软膏剂</td>
+<td>10g:硼酸0.2g,氧化锌1.8g,冰片50mg</td>
+<td>支</td>
+</tr>
+<tr class="odd">
+<td>395</td>
+<td>硼酸氧化锌软膏</td>
+<td>软膏剂</td>
+<td>复方</td>
+<td>支</td>
+</tr>
+<tr class="even">
+<td>396</td>
+<td>脾氨肽口服溶液</td>
+<td>口服溶液剂</td>
+<td>10ml:10mg(多肽,以牛血清白蛋白计):0.1mg(核苷酸,以D-核糖计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>397</td>
+<td>平喘益气颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>398</td>
+<td>平溃散</td>
+<td>散剂</td>
+<td>每袋装6g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>399</td>
+<td>朴实颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装3g(无蔗糖型)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>400</td>
+<td>七味姜黄搽剂</td>
+<td>搽剂</td>
+<td>每瓶装10ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>401</td>
+<td>七味解毒活血膏</td>
+<td>软膏剂</td>
+<td>每支装20g</td>
+<td>支</td>
+</tr>
+<tr class="even">
+<td>402</td>
+<td>七味清咽气雾剂</td>
+<td>气雾剂</td>
+<td>每瓶净重11.2g(含药液7ml),190揿</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>403</td>
+<td>七味胃痛胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>404</td>
+<td>芪枣颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装15g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>405</td>
+<td>千里光胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.30g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>406</td>
+<td>千里光片</td>
+<td>片剂(糖衣)</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>407</td>
+<td>前列闭尔通栓</td>
+<td>栓剂</td>
+<td>每粒重2.2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>408</td>
+<td>前列解毒胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>409</td>
+<td>强筋健骨丸</td>
+<td>丸剂(水丸)</td>
+<td>每袋装3g(25粒)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>410</td>
+<td>强力脑心康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>411</td>
+<td>芩翘口服液</td>
+<td>合剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>412</td>
+<td>青柏洁身洗液</td>
+<td>洗剂</td>
+<td>每瓶装200ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>413</td>
+<td>氢溴酸伏硫西汀片</td>
+<td>片剂</td>
+<td>10mg(以C18H22N2S计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>414</td>
+<td>氢溴酸高乌甲素片</td>
+<td>片剂</td>
+<td>10mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>415</td>
+<td>氢溴酸高乌甲素片</td>
+<td>片剂</td>
+<td>5mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>416</td>
+<td>氢溴酸依他佐辛注射液</td>
+<td>注射剂</td>
+<td>1ml:15mg(以依他佐辛计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>417</td>
+<td>氢溴酸樟柳碱片</td>
+<td>片剂</td>
+<td>1mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>418</td>
+<td>清肝利胆口服液</td>
+<td>合剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>419</td>
+<td>清金糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100ml</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>420</td>
+<td>清金糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装10ml(每1ml相当于饮片1.49g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>421</td>
+<td>清热利胆颗粒</td>
+<td>颗粒剂</td>
+<td>每袋重15g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>422</td>
+<td>清热祛湿颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>包</td>
+</tr>
+<tr class="odd">
+<td>423</td>
+<td>清热消炎宁片</td>
+<td>片剂</td>
+<td>每片重0.45克(含九节茶干浸膏0.33克)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>424</td>
+<td>清眩丸</td>
+<td>丸剂(大蜜丸)</td>
+<td>每丸重6g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>425</td>
+<td>驱白巴布期片</td>
+<td>片剂</td>
+<td>每片重0.51g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>426</td>
+<td>祛瘀散结胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.48g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>427</td>
+<td>曲伏噻吗滴眼液</td>
+<td>滴眼剂</td>
+<td>2.5ml:曲伏前列素0.1mg和马来酸噻吗洛尔12.5mg(以噻吗洛尔计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>428</td>
+<td>曲司氯铵胶囊</td>
+<td>胶囊剂</td>
+<td>5mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>429</td>
+<td>曲司氯铵片</td>
+<td>片剂</td>
+<td>20mg(按C25H30NO3Cl计算)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>430</td>
+<td>曲昔派特胶囊</td>
+<td>胶囊剂</td>
+<td>0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>431</td>
+<td>人参北芪胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>432</td>
+<td>溶菌酶肠溶片</td>
+<td>片剂(肠溶)</td>
+<td>50mg(31.25万单位)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>433</td>
+<td>溶菌酶滴眼液</td>
+<td>眼用制剂</td>
+<td>8ml:40mg(0.5%)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>434</td>
+<td>乳安胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g(相当于饮片0.67g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>435</td>
+<td>乳安片</td>
+<td>片剂</td>
+<td>每片重0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>436</td>
+<td>乳核内消胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>437</td>
+<td>乳核内消液</td>
+<td>合剂/合剂(口服液)</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>438</td>
+<td>乳疾灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>439</td>
+<td>乳疾灵胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5克</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>440</td>
+<td>乳疾灵胶囊</td>
+<td>胶囊剂(硬胶囊)</td>
+<td>每粒装0.55g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>441</td>
+<td>乳疾灵颗粒</td>
+<td>颗粒剂/颗粒剂(无糖型)</td>
+<td>（1）每袋装14g（2）每袋装5g（无蔗糖）</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>442</td>
+<td>乳康舒胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.38g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>443</td>
+<td>乳癖康胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>444</td>
+<td>乳酸亚铁糖浆</td>
+<td>糖浆剂</td>
+<td>60ml:0.9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>445</td>
+<td>乳泰胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>446</td>
+<td>塞曲司特片</td>
+<td>片剂</td>
+<td>40mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>447</td>
+<td>噻托溴铵奥达特罗吸入喷雾剂</td>
+<td>吸入喷雾剂</td>
+<td>每瓶60喷,每喷含噻托铵2.5ug(相当于噻托溴铵一水合物3.124ug)和奥达特罗2.5ug(相当于盐酸奥达特罗2.736ug)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>448</td>
+<td>赛胃安胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.87g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>449</td>
+<td>三黄清解胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.44g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>450</td>
+<td>三七活血丸</td>
+<td>丸剂(大蜜丸)</td>
+<td>每丸重9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>451</td>
+<td>三清胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>452</td>
+<td>三乌胶丸</td>
+<td>丸剂</td>
+<td>每20粒重1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>453</td>
+<td>沙巴棕软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装160mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>454</td>
+<td>沙棘糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>455</td>
+<td>山海丹胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>456</td>
+<td>伤科跌打胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>457</td>
+<td>伤湿丸</td>
+<td>丸剂(小蜜丸)</td>
+<td>每30丸重9g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>458</td>
+<td>伤痛宁胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>459</td>
+<td>麝香舒活搽剂</td>
+<td>搽剂</td>
+<td>每瓶装70ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>460</td>
+<td>麝香舒活灵</td>
+<td>酒剂</td>
+<td>每瓶装30ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>461</td>
+<td>麝香心脑乐胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>462</td>
+<td>麝香心痛宁片</td>
+<td>片剂</td>
+<td>每片重0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>463</td>
+<td>神曲胃痛片</td>
+<td>片剂</td>
+<td>每片重0.5g(含碳酸氢260mg、氢氧化铝70mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>464</td>
+<td>神香苏合丸</td>
+<td>丸剂</td>
+<td>每瓶装0.7g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>465</td>
+<td>神州跌打丸</td>
+<td>丸剂(小蜜丸)</td>
+<td>小蜜丸每12丸重3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>466</td>
+<td>肾炎灵颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>467</td>
+<td>肾炎温阳胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.48g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>468</td>
+<td>生血片</td>
+<td>片剂(糖衣;薄膜衣)</td>
+<td>每素片重0.25g;每片重0.26g(薄膜衣片)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>469</td>
+<td>胜红清热片</td>
+<td>片剂</td>
+<td>每片重0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>470</td>
+<td>施保利通片</td>
+<td>片剂</td>
+<td>每片重0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>471</td>
+<td>湿毒清片</td>
+<td>片剂</td>
+<td>每片重0.62g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>472</td>
+<td>湿疡气雾剂</td>
+<td>气雾剂</td>
+<td>每瓶装14g,药液重4.5g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>473</td>
+<td>十味诃子片</td>
+<td>片剂</td>
+<td>每片重0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>474</td>
+<td>十味活血丸</td>
+<td>丸剂</td>
+<td>每10丸重1g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>475</td>
+<td>十五味萝蒂明目片</td>
+<td>片剂</td>
+<td>每片重0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>476</td>
+<td>石黄抗菌片</td>
+<td>薄膜衣片</td>
+<td>每片重0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>477</td>
+<td>石辛含片</td>
+<td>片剂</td>
+<td>每片重0.6g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>478</td>
+<td>舒肤止痒酊</td>
+<td>酊剂</td>
+<td>30ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>479</td>
+<td>舒肝顺气丸</td>
+<td>丸剂</td>
+<td>每10丸重1g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>480</td>
+<td>舒冠颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g(相当于饮片量17.61g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>481</td>
+<td>舒筋胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>482</td>
+<td>舒洛地特注射液</td>
+<td>注射剂</td>
+<td>2ml:600LSU</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>483</td>
+<td>舒秘胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>484</td>
+<td>舒心降脂片</td>
+<td>薄膜衣片</td>
+<td>薄膜衣:每片相当于原药材0.62g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>485</td>
+<td>舒心宁片</td>
+<td>片剂</td>
+<td>每片重0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>486</td>
+<td>舒咽清喷雾剂</td>
+<td>喷雾剂</td>
+<td>每瓶装30ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>487</td>
+<td>疏肝益阳胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装 0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>488</td>
+<td>双醋瑞因胶囊</td>
+<td>胶囊剂</td>
+<td>50mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>489</td>
+<td>双羊喉痹通颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>490</td>
+<td>双唑泰乳膏</td>
+<td>乳膏剂</td>
+<td>4g(内含甲硝唑0.2克、克霉唑0.16克、醋酸氯己定8毫克)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>491</td>
+<td>双唑泰阴道凝胶</td>
+<td>凝胶剂</td>
+<td>每支5g(含甲硝唑0.2g,克霉唑0.16g,醋酸氯己定8mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>492</td>
+<td>双唑泰阴道软胶囊</td>
+<td>胶囊剂</td>
+<td>每枚含甲硝唑200mg、克霉唑160mg、醋酸氯己定8mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>493</td>
+<td>四烯甲萘醌软胶囊</td>
+<td>胶囊剂</td>
+<td>15mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>494</td>
+<td>羧甲淀粉钠溶液</td>
+<td>溶液剂</td>
+<td>按总固体计100ml:22.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>495</td>
+<td>羧甲淀粉钠溶液</td>
+<td>溶液剂</td>
+<td>按总固体计100ml:45.0g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>496</td>
+<td>索法酮干混悬剂</td>
+<td>干混悬剂</td>
+<td>0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>497</td>
+<td>锁阳补肾胶囊</td>
+<td>胶囊剂</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>498</td>
+<td>酞丁安乳膏</td>
+<td>乳膏剂</td>
+<td>10g:0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>499</td>
+<td>桃红清血丸</td>
+<td>丸剂(水丸)</td>
+<td>每30丸重5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>500</td>
+<td>特非那定颗粒</td>
+<td>颗粒剂</td>
+<td>30mg</td>
+<td>袋</td>
+</tr>
+<tr class="odd">
+<td>501</td>
+<td>天麻祛风补片</td>
+<td>片剂</td>
+<td>每片相当于总药材0.88g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>502</td>
+<td>调经促孕丸</td>
+<td>丸剂(水蜜丸)</td>
+<td>每100丸重10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>503</td>
+<td>调经养血丸</td>
+<td>丸剂(水蜜丸)</td>
+<td>每40丸重3g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>504</td>
+<td>调经益母胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>505</td>
+<td>通迪胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>506</td>
+<td>通脉颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>507</td>
+<td>通脉颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>508</td>
+<td>通脉颗粒</td>
+<td>颗粒剂(无糖型)</td>
+<td>每袋装5g(无糖型),每袋装10g(有糖型)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>509</td>
+<td>铜绿假单胞菌注射液</td>
+<td>注射剂</td>
+<td>每支1.0ml,含菌1.8×10^9 个</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>510</td>
+<td>酮咯酸氨丁三醇片</td>
+<td>片剂</td>
+<td>10mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>511</td>
+<td>酮洛芬搽剂</td>
+<td>搽剂</td>
+<td>30ml:0.9g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>512</td>
+<td>酮洛芬缓释胶囊</td>
+<td>胶囊剂</td>
+<td>0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>513</td>
+<td>酮洛芬缓释胶囊</td>
+<td>胶囊剂</td>
+<td>0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>514</td>
+<td>酮洛芬缓释胶囊</td>
+<td>胶囊剂</td>
+<td>75mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>515</td>
+<td>酮洛芬贴片</td>
+<td>贴剂</td>
+<td>每片7cm×10cm,含酮洛芬20mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>516</td>
+<td>妥洛特罗贴剂</td>
+<td>贴剂</td>
+<td>0.5mg/贴</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>517</td>
+<td>妥洛特罗贴剂</td>
+<td>贴剂</td>
+<td>1mg/贴</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>518</td>
+<td>外用重组人粒细胞巨噬细胞刺激因子凝胶</td>
+<td>凝胶剂</td>
+<td>100ug rhGM-CSF/10g/支</td>
+<td>支</td>
+</tr>
+<tr class="odd">
+<td>519</td>
+<td>胃铋镁颗粒</td>
+<td>颗粒剂</td>
+<td>复方</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>520</td>
+<td>胃刻宁胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>521</td>
+<td>胃力胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.45g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>522</td>
+<td>胃灵颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5克</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>523</td>
+<td>胃舒宁片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.41g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>524</td>
+<td>胃祥宁颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>525</td>
+<td>温经颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>526</td>
+<td>乌金活血止痛胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>527</td>
+<td>乌金活血止痛片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>528</td>
+<td>乌金胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>529</td>
+<td>无敌止痛搽剂</td>
+<td>搽剂</td>
+<td>每瓶装20、40、60、80毫升</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>530</td>
+<td>五更太平丸</td>
+<td>丸剂(小蜜丸)</td>
+<td>每袋装9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>531</td>
+<td>五酯软胶囊</td>
+<td>软胶囊</td>
+<td>每粒装0.3g(含五味子酯甲2.0mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>532</td>
+<td>五子衍宗丸</td>
+<td>丸剂</td>
+<td>大蜜丸每丸重9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>533</td>
+<td>五子衍宗丸</td>
+<td>丸剂(小蜜丸)</td>
+<td>每45粒重9克</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>534</td>
+<td>西吡氯铵含片</td>
+<td>片剂</td>
+<td>每片2mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>535</td>
+<td>细菌溶解产物胶囊</td>
+<td>胶囊剂</td>
+<td>3.5毫克/粒</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>536</td>
+<td>细菌溶解产物胶囊</td>
+<td>胶囊剂</td>
+<td>7.0毫克/粒</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>537</td>
+<td>夏桑菊颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>包/盒</td>
+</tr>
+<tr class="even">
+<td>538</td>
+<td>香菊感冒颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>539</td>
+<td>香芍颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>540</td>
+<td>消咳平喘口服液</td>
+<td>合剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>541</td>
+<td>消朦胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g(含葡萄糖酸锌3.35mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>542</td>
+<td>消炎退热颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装3g(无蔗糖)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>543</td>
+<td>消痔灵片</td>
+<td>片剂</td>
+<td>每片重0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>544</td>
+<td>硝呋太尔制霉菌素阴道软膏</td>
+<td>软膏剂</td>
+<td>硝呋太尔0.5g,制霉菌素20万单位</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>545</td>
+<td>硝酸奥昔康唑乳膏</td>
+<td>乳膏剂</td>
+<td>15g:0.15g(以C18H13Cl4N3O计算)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>546</td>
+<td>硝酸硫康唑喷雾剂</td>
+<td>喷雾剂</td>
+<td>1%</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>547</td>
+<td>硝酸舍他康唑乳膏</td>
+<td>乳膏剂</td>
+<td>2%</td>
+<td>盒/支</td>
+</tr>
+<tr class="even">
+<td>548</td>
+<td>硝酸舍他康唑乳膏</td>
+<td>乳膏剂</td>
+<td>10g:0.2g(以硝酸舍他康唑计)</td>
+<td>支</td>
+</tr>
+<tr class="odd">
+<td>549</td>
+<td>硝酸异山梨酯气雾剂</td>
+<td>气雾剂</td>
+<td>每瓶含硝酸异山梨酯0.125g。每瓶200揿,每揿含硝酸异山梨酯0.625mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>550</td>
+<td>小儿贝诺酯散</td>
+<td>散剂</td>
+<td>0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>551</td>
+<td>小儿柴芩清解颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>552</td>
+<td>小儿对乙酰氨基酚异丙嗪片</td>
+<td>片剂</td>
+<td>对乙酰氨基酚0.12g,盐酸异丙嗪5mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>553</td>
+<td>小儿风热清合剂(口服液)</td>
+<td>合剂(口服液)</td>
+<td>每1ml相当于饮片2.0g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>554</td>
+<td>小儿扶脾颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g,每袋装5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>555</td>
+<td>小儿复方鸡内金散</td>
+<td>散剂</td>
+<td>每袋装2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>556</td>
+<td>小儿咳喘灵泡腾片</td>
+<td>片剂(泡腾)</td>
+<td>每片重1.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>557</td>
+<td>小儿利湿止泻颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>558</td>
+<td>小儿清热止咳颗粒</td>
+<td>颗粒剂</td>
+<td>每1克相当于饮片1.7克</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>559</td>
+<td>小儿退热颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装(1)5g,(2)15g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>560</td>
+<td>小儿愈美那敏溶液</td>
+<td>口服溶液剂</td>
+<td>-</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>561</td>
+<td>小麦纤维素颗粒</td>
+<td>颗粒剂</td>
+<td>3.5g/包</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>562</td>
+<td>协日嘎四味汤胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>563</td>
+<td>泻痢固肠丸</td>
+<td>丸剂</td>
+<td>每100粒重6g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>564</td>
+<td>心脑清软胶囊</td>
+<td>胶囊剂(软胶囊)</td>
+<td>每粒装0.415g(含维生素E17mg)</td>
+<td>瓶/盒</td>
+</tr>
+<tr class="odd">
+<td>565</td>
+<td>心荣胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.42g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>566</td>
+<td>心荣颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>567</td>
+<td>杏香兔耳风软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.65g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>568</td>
+<td>胸腺蛋白口服溶液</td>
+<td>口服溶液剂</td>
+<td>6ml:30mg(以蛋白质计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>569</td>
+<td>熊胆川贝口服液</td>
+<td>合剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>570</td>
+<td>熊胆降热片</td>
+<td>片剂</td>
+<td>每片重0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>571</td>
+<td>熊胆救心丸</td>
+<td>丸剂(水丸)</td>
+<td>每10粒重0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>572</td>
+<td>溴夫定片</td>
+<td>片剂</td>
+<td>125mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>573</td>
+<td>玄七通痹胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>574</td>
+<td>血脉通胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.26g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>575</td>
+<td>血美安胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.27g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>576</td>
+<td>烟酸占替诺注射液</td>
+<td>注射剂</td>
+<td>2ml:300mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>577</td>
+<td>延胡胃安胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>578</td>
+<td>盐酸阿莫罗芬搽剂</td>
+<td>搽剂</td>
+<td>5%(以阿莫罗芬计)</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>579</td>
+<td>盐酸阿扎司琼注射液</td>
+<td>注射剂</td>
+<td>2ml:10mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>580</td>
+<td>盐酸安非他酮缓释片</td>
+<td>片剂</td>
+<td>0.15g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>581</td>
+<td>盐酸氨基葡萄糖颗粒</td>
+<td>颗粒剂</td>
+<td>0.48g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>582</td>
+<td>盐酸氨酮戊酸外用散</td>
+<td>散剂(外用)</td>
+<td>118mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>583</td>
+<td>盐酸奥布卡因凝胶</td>
+<td>凝胶剂</td>
+<td>10ml:30mg</td>
+<td>支</td>
+</tr>
+<tr class="even">
+<td>584</td>
+<td>盐酸倍他司汀口服液</td>
+<td>口服溶液剂</td>
+<td>10ml:20mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>585</td>
+<td>盐酸丙美卡因滴眼液</td>
+<td>眼用制剂</td>
+<td>15ml:75mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>586</td>
+<td>盐酸丙哌维林缓释胶囊</td>
+<td>胶囊剂</td>
+<td>30mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>587</td>
+<td>盐酸伐昔洛韦缓释片</td>
+<td>片剂(缓释片)</td>
+<td>0.6g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>588</td>
+<td>盐酸环仑特罗片</td>
+<td>片剂</td>
+<td>20ug</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>589</td>
+<td>盐酸环喷托酯滴眼液</td>
+<td>眼用制剂</td>
+<td>1ml:10mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>590</td>
+<td>盐酸甲哌卡因注射液</td>
+<td>注射剂</td>
+<td>1.8ml:54mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>591</td>
+<td>盐酸甲哌卡因注射液</td>
+<td>注射剂</td>
+<td>20ml:0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>592</td>
+<td>盐酸决奈达隆片</td>
+<td>片剂</td>
+<td>400mg（按C31H44N2O5S 计）</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>593</td>
+<td>盐酸雷莫司琼注射液</td>
+<td>注射剂</td>
+<td>2ml:0.3mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>594</td>
+<td>盐酸仑氨西林片</td>
+<td>片剂</td>
+<td>0.25g(按C16H19N3O4S计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>595</td>
+<td>盐酸洛非西定片</td>
+<td>片剂</td>
+<td>0.2mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>596</td>
+<td>盐酸氯环利嗪片</td>
+<td>片剂</td>
+<td>25mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>597</td>
+<td>盐酸氯环利嗪乳膏</td>
+<td>乳膏剂</td>
+<td>10g:0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>598</td>
+<td>盐酸美他环素片</td>
+<td>片剂</td>
+<td>0.1g(按C22H22N2O8 计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>599</td>
+<td>盐酸米诺环素软膏</td>
+<td>软膏剂</td>
+<td>0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>600</td>
+<td>盐酸奈福泮注射液</td>
+<td>注射剂</td>
+<td>1ml:20mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>601</td>
+<td>盐酸奈福泮注射液</td>
+<td>注射剂</td>
+<td>2ml:20mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>602</td>
+<td>盐酸屈他维林注射液</td>
+<td>注射剂</td>
+<td>2ml:40mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>603</td>
+<td>盐酸曲马多栓</td>
+<td>栓剂</td>
+<td>0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>604</td>
+<td>盐酸赛洛唑啉鼻用喷雾剂</td>
+<td>鼻用制剂(鼻用喷雾剂)</td>
+<td>10ml,内含盐酸赛洛唑啉10mg,每喷含盐酸赛洛唑啉0.125mg</td>
+<td>支</td>
+</tr>
+<tr class="odd">
+<td>605</td>
+<td>盐酸司他斯汀片</td>
+<td>片剂</td>
+<td>1mg(以C22H28ClNO计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>606</td>
+<td>盐酸托莫西汀口服溶液</td>
+<td>口服溶液剂</td>
+<td>100ml:400mg,4 mg/mL(按C17H21NO计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>607</td>
+<td>盐酸依匹斯汀胶囊</td>
+<td>胶囊剂</td>
+<td>10mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>608</td>
+<td>盐酸左西替利嗪颗粒</td>
+<td>颗粒剂</td>
+<td>2.5mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>609</td>
+<td>养血当归糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100ml</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>610</td>
+<td>养血当归糖浆</td>
+<td>糖浆剂</td>
+<td>每支装10ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>611</td>
+<td>养血生发胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>612</td>
+<td>养血退热丸</td>
+<td>丸剂(水蜜丸)</td>
+<td>每袋装6g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>613</td>
+<td>夜宁胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="even">
+<td>614</td>
+<td>伊来西胺片</td>
+<td>片剂</td>
+<td>50mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>615</td>
+<td>伊血安颗粒</td>
+<td>颗粒剂</td>
+<td>每1g相当于饮片1.87g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>616</td>
+<td>依卡倍特钠颗粒</td>
+<td>颗粒剂</td>
+<td>1.0g(按C20H27NaO5S5H2O计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>617</td>
+<td>依洛尤单抗注射液</td>
+<td>注射剂</td>
+<td>1mL:140mg (预充式自动注射笔)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>618</td>
+<td>依托度酸缓释片</td>
+<td>片剂</td>
+<td>0.4g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>619</td>
+<td>依托度酸胶囊</td>
+<td>胶囊剂</td>
+<td>0.2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>620</td>
+<td>依折麦布辛伐他汀片</td>
+<td>片剂</td>
+<td>每片含依折麦布10mg,辛伐他汀20mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>621</td>
+<td>乙酰吉他霉素干混悬剂</td>
+<td>口服混悬剂</td>
+<td>0.1g(10万单位,按吉他霉素计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>622</td>
+<td>乙酰麦迪霉素干混悬剂</td>
+<td>干混悬剂</td>
+<td>0.05g(5万单位)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>623</td>
+<td>乙酰麦迪霉素干混悬剂</td>
+<td>干混悬剂</td>
+<td>0.1g(10万单位)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>624</td>
+<td>益肝灵滴丸</td>
+<td>滴丸剂</td>
+<td>每丸重23mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>625</td>
+<td>益肝灵滴丸</td>
+<td>滴丸剂</td>
+<td>每丸重33mg(含水飞蓟素以水飞蓟宾计为3.85mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>626</td>
+<td>益肝灵滴丸</td>
+<td>滴丸剂</td>
+<td>每丸重45mg(含水飞蓟素以水飞蓟宾计为7.7mg)</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>627</td>
+<td>益宫颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>628</td>
+<td>益坤宁片</td>
+<td>片剂</td>
+<td>每片重0.37g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>629</td>
+<td>益脉康片</td>
+<td>片剂</td>
+<td>每片重0.31g(含总黄酮40mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>630</td>
+<td>银屑片</td>
+<td>片剂</td>
+<td>每片重0.51g(相当于原药材6.75g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>631</td>
+<td>淫羊藿总黄酮胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g(含淫羊藿总黄酮提取物309mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>632</td>
+<td>引阳索胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>633</td>
+<td>婴儿健脾散</td>
+<td>散剂</td>
+<td>每袋装0.5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>634</td>
+<td>右旋布洛芬栓</td>
+<td>栓剂</td>
+<td>50mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>635</td>
+<td>幼泻宁颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装6g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>636</td>
+<td>元和正胃片</td>
+<td>片剂</td>
+<td>每片重0.75g(含碳酸氢钠0.6g)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>637</td>
+<td>云芝胞内糖肽胶囊</td>
+<td>胶囊剂</td>
+<td>0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>638</td>
+<td>云芝胞内糖肽胶囊</td>
+<td>胶囊剂</td>
+<td>0.5g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>639</td>
+<td>孕妇金花片</td>
+<td>片剂</td>
+<td>每片重0.62g(薄膜衣片)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>640</td>
+<td>扎那米韦吸入粉雾剂</td>
+<td>粉雾剂</td>
+<td>5mg/粒(以扎那米韦计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>641</td>
+<td>长春红药胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.35g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>642</td>
+<td>珍黄片</td>
+<td>片剂</td>
+<td>每片重0.21g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>643</td>
+<td>止咳祛痰颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装10g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>644</td>
+<td>止咳祛痰糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100ml</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>645</td>
+<td>止嗽定喘丸(浓缩丸)</td>
+<td>丸剂</td>
+<td>每10粒重2.2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>646</td>
+<td>止血宝片</td>
+<td>片剂(薄膜衣)</td>
+<td>每片重0.3g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>647</td>
+<td>治伤风颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装2g(相当于饮片1.236g,含对乙酰氨基酚240mg,无水咖啡因50mg,盐酸那可汀10mg,马来酸氯苯那敏2mg)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>648</td>
+<td>稚儿灵颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装9g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>649</td>
+<td>肿节风软胶囊</td>
+<td>胶囊剂</td>
+<td>每粒装0.6g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>650</td>
+<td>重组牛碱性成纤维细胞生长因子外用溶液</td>
+<td>液体制剂</td>
+<td>63000IU/瓶</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>651</td>
+<td>注射用A群链球菌</td>
+<td>注射剂(冻干粉针剂)</td>
+<td>5g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>652</td>
+<td>注射用氨磷汀</td>
+<td>注射剂</td>
+<td>0.4g(按无水物计)</td>
+<td>瓶/盒</td>
+</tr>
+<tr class="odd">
+<td>653</td>
+<td>注射用氨磷汀</td>
+<td>注射剂</td>
+<td>0.5g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>654</td>
+<td>注射用比伐芦定</td>
+<td>注射剂</td>
+<td>0.25g</td>
+<td>瓶/支</td>
+</tr>
+<tr class="odd">
+<td>655</td>
+<td>注射用玻璃酸酶</td>
+<td>注射剂(冻干)</td>
+<td>1500单位</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>656</td>
+<td>注射用福沙匹坦双葡甲胺</td>
+<td>注射剂</td>
+<td>150mg(以C23H22F7N4O6P计)</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>657</td>
+<td>注射用过氧化碳酰胺</td>
+<td>注射剂</td>
+<td>1g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>658</td>
+<td>注射用甲苯磺酸瑞马唑仑</td>
+<td>注射剂</td>
+<td>36mg［按瑞马唑仑(C21H19BrN4O2)计］</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>659</td>
+<td>注射用萘夫西林钠</td>
+<td>注射剂</td>
+<td>1.0g(按C21H22N2O5S计算)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>660</td>
+<td>注射用尼麦角林</td>
+<td>注射剂</td>
+<td>2mg</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>661</td>
+<td>注射用尼麦角林</td>
+<td>注射剂/注射剂(注射用无菌粉末)</td>
+<td>4mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>662</td>
+<td>注射用尼麦角林</td>
+<td>注射剂(冻干)</td>
+<td>2mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>663</td>
+<td>注射用尿促卵泡素</td>
+<td>注射剂</td>
+<td>以尿促卵泡素效价计 75单位</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>664</td>
+<td>注射用喷昔洛韦</td>
+<td>注射剂</td>
+<td>0.25g</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>665</td>
+<td>注射用心肌肽</td>
+<td>注射剂</td>
+<td>20mg(按多肽计)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>666</td>
+<td>注射用盐酸丙帕他莫</td>
+<td>注射剂</td>
+<td>1.0g</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>667</td>
+<td>注射用盐酸丙帕他莫</td>
+<td>注射剂</td>
+<td>2g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>668</td>
+<td>注射用盐酸甲氯芬酯</td>
+<td>注射剂/注射剂(无菌分装粉针剂)</td>
+<td>0.1g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>669</td>
+<td>注射用盐酸甲氯芬酯</td>
+<td>注射剂/注射剂(无菌分装粉针剂)</td>
+<td>0.25g</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>670</td>
+<td>注射用盐酸甲氯芬酯</td>
+<td>注射剂</td>
+<td>0.25g</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>671</td>
+<td>注射用盐酸甲氯芬酯</td>
+<td>注射剂</td>
+<td>0.2g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>672</td>
+<td>注射用盐酸雷莫司琼</td>
+<td>注射剂/注射剂(注射用无菌粉末)</td>
+<td>0.3mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>673</td>
+<td>注射用盐酸尼非卡兰</td>
+<td>注射剂</td>
+<td>50mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>674</td>
+<td>注射用重组人促卵泡激素</td>
+<td>注射剂</td>
+<td>5.5ug(75iu)</td>
+<td>盒/瓶</td>
+</tr>
+<tr class="odd">
+<td>675</td>
+<td>注射用重组特立帕肽</td>
+<td>注射剂</td>
+<td>200U(20ug)</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>676</td>
+<td>紫桔止咳糖浆</td>
+<td>糖浆剂</td>
+<td>每瓶装100ml</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>677</td>
+<td>左羟丙哌嗪胶囊</td>
+<td>胶囊剂</td>
+<td>30mg</td>
+<td>盒</td>
+</tr>
+<tr class="even">
+<td>678</td>
+<td>左羟丙哌嗪口服溶液</td>
+<td>口服溶液剂</td>
+<td>10ml:60mg</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>679</td>
+<td>酪酸梭菌活菌散</td>
+<td>散剂</td>
+<td>每袋500毫克</td>
+<td>袋/盒</td>
+</tr>
+<tr class="even">
+<td>680</td>
+<td>凝结芽孢杆菌活菌片</td>
+<td>片剂</td>
+<td>每片350毫克</td>
+<td>瓶</td>
+</tr>
+<tr class="odd">
+<td>681</td>
+<td>盐酸二甲双胍缓释片(Ⅲ)</td>
+<td>片剂</td>
+<td>0.5g</td>
+<td>瓶</td>
+</tr>
+<tr class="even">
+<td>682</td>
+<td>苦金片</td>
+<td>片剂</td>
+<td>每片重0.41g</td>
+<td>盒</td>
+</tr>
+<tr class="odd">
+<td>683</td>
+<td>桑枝颗粒</td>
+<td>颗粒剂</td>
+<td>每袋装3g</td>
+<td>盒</td>
+</tr>
+</tbody>
+</table>
+<h1 id="附件315种特药特材目录">附件3：15种特药/特材目录</h1>
+<table>
+<thead>
+<tr class="header">
+<th>序号</th>
+<th>通用名</th>
+<th>剂型</th>
+<th>适应症</th>
+<th>生产企业</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>特瑞普利单抗</td>
+<td>注射剂</td>
+<td>治疗既往接受过二线及以上系统治疗失败的复发/转移性鼻咽癌（NPC）患者。含铂化疗失败包括新辅助或辅助化疗12个月内进展的局部晚期或转移性尿路上皮癌的治疗。</td>
+<td>君实生物</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>替雷利珠单抗</td>
+<td>注射剂</td>
+<td>联合化疗一线治疗晚期鳞状非小细胞肺癌（NSCLC）。</td>
+<td>百济神州</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>信迪利单抗</td>
+<td>注射剂</td>
+<td>联合培美曲塞和铂类化疗用于非鳞状非小细胞肺癌（nsqNSCLC）的一线治疗。</td>
+<td>信达生物</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>阿帕他胺</td>
+<td>片剂</td>
+<td>高危转移风险的非转移性去势抵抗性前列腺癌（NM-CRPC）</td>
+<td>西安杨森</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>恩沙替尼</td>
+<td>胶囊剂</td>
+<td>接受过克唑替尼治疗后进展的或者对克唑替尼不耐受的间变性淋巴瘤激酶(ALK)阳性的局部晚期或转移性非小细胞肺癌(NSCLC)</td>
+<td>贝达药业</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>伏美替尼</td>
+<td>片剂</td>
+<td>针对既往 EGFR-TKI 治疗时或治疗后出现疾病进展、并且经检测确认存在 EGFRT790M 突变阳性的局部晚期或转移性非小细胞肺癌（NSCLC）</td>
+<td>艾力斯药业</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>西达本胺</td>
+<td>片剂</td>
+<td>联合芳香化酶抑制剂用于治疗激素受体阳性、人表皮生长因子受体-2阴性、绝经后、经内分泌治疗复发或进展的局部晚期或转移性乳腺癌</td>
+<td>深圳微芯科技</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>氟唑帕利</td>
+<td>胶囊剂</td>
+<td>既往经过二线及以上化疗的伴有胚系BRCA突变(gBRCAm)的铂敏感复发性卵巢癌、输卵管癌或原发性腹膜癌</td>
+<td>恒瑞医药</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>替莫唑胺</td>
+<td>注射剂</td>
+<td>新诊断的多形性胶质母细胞瘤，开始先与放疗联合治疗，随后作为辅助治疗；常规治疗后复发或进展的多形性胶质母细胞瘤或间变性星形细胞瘤。</td>
+<td>恒瑞医药</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>曲氟尿苷替匹嘧啶</td>
+<td>片剂</td>
+<td>既往接受过氟嘧啶类、奥沙利铂和伊立替康为基础的化疗，以及既往接受过或不适合接受抗血管内皮生长因子（ VEGF）治疗、抗表皮生长因子受体（ EGFR）治疗（ RAS野生型）的转移性结直肠癌（mCRC）</td>
+<td>齐鲁制药</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>阿帕替尼</td>
+<td>片剂</td>
+<td>既往接受过至少一线系统性治疗后失败或不可耐受的晚期肝细胞癌</td>
+<td>恒瑞医药</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>特立帕肽</td>
+<td>注射液</td>
+<td>有骨折高发风险的绝经后妇女重度骨质疏松症</td>
+<td>礼来制药</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>泊马度胺</td>
+<td>胶囊剂</td>
+<td>本品与地塞米松联用，适用于既往接受过至少两种治疗（包括来那度胺和一种蛋白酶体抑制剂），且在最后一次治疗期间或治疗结束后60天内发生疾病进展的成年多发性骨髓瘤患者。</td>
+<td>正大天晴药业</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>胰岛素泵</td>
+<td>特材</td>
+<td><p>限用于18周岁及以下1型糖尿病患者的治疗，其中耗材支付到18周岁。</p>
+<p>准入条件：临床诊断为1型糖尿病，并适用722实时动态胰岛素泵系统治疗的患者。</p>
+<p>2.空腹血糖≥7.0mmol/L或随机血糖≥11.1mmol/L。</p>
+<p>3.年龄＜18周岁。</p>
+<p>4.符合以下任何一项：</p>
+<p>（1）胰岛细胞自身抗体阳性。</p>
+<p>（2）胰岛素释放试验：血浆基础胰岛素水平低于正常、葡萄糖刺激后胰岛素分泌曲线低平。</p>
+<p>（3）C肽或胰岛素水平下降。</p>
+<p>同时符合以上4条，经责任医师评估后准入。产品基本信息：MMT-722型胰岛素泵系统、直插式钢针套组、纽扣式软针套组</p></td>
+<td>美敦力</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>DBS脑深部电刺激</td>
+<td></td>
+<td><p>限用于对药物不能有效控制某些症状的晚期左旋多巴反应性帕金森患者的联合治疗。</p>
+<p>准入条件：1.参加青岛市社会医疗保险取得门诊大病资格、核准病种为原发性帕金森氏病、临床确诊为原发性帕金森氏病、遗传性帕金森氏病或各种基因型帕金森氏病、病程三年以上、临床治疗适用脑深部电刺激疗法的患者；</p>
+<p>2.对复方左旋多巴曾经有良好疗效（已进行最佳药物治疗：足剂量，至少使用了复方左旋多巴和多巴胺受体激动剂），目前不能满意控制症状，疗效已明显下降或出现了严重的运动波动或异动症，或为药物难治性震颤，或对药物不能耐受；</p>
+<p>3.病种严重程度：Hoehn-Yahr分级在2.5-4期；</p>
+<p>4.除外明显的认知功能障碍，除外严重的抑郁、焦虑和精神分裂症等精神类疾病。</p>
+<p>同时符合以上4条，经责任医师评估后准入。</p>
+<p>产品信息（美敦力）：美敦力Activa SC脑深部电刺激疗法产品组套构成：植入式神经刺激器（型号、规格37603）、植入式神经刺激电极（型号、规格3389S）、脑深部电刺激延伸导线套装（型号、规格37086）、隧道工具套包（型号、规格3755）、患者程控仪（型号、规格37642）</p>
+<p>美敦力Activa PC脑深部电刺激疗法产品组套构成：植入式神经刺激器（型号、规格37601）、植入式神经刺激电极（型号、规格3389S）、脑深部电刺激延伸导线套装（型号、规格37086）、隧道工具套包（型号、规格3755）、患者程控仪（型号、规格37642）</p>
+<p>产品信息（品驰）：单通道非充电脑深部电刺激系统构成：单通道植入式脑深部电刺激脉冲发生器套件（型号、规格G101A）；植入式脑深部电刺激延伸导线套件（型号、规格E202）；植入式脑深部电刺激电极导线套件（型号、规格L301、L302）</p>
+<p>双通道非充电脑深部电刺激系统构成：双通道植入式脑深部电刺激脉冲发生器套件（型号、规格G102）；E202植入式脑深部电刺激延伸导线套件（型号、规格E202）；植入式脑深部电刺激电极导线套件（型号、规格L301、L302）</p></td>
+<td>美敦力、品驰</td>
+</tr>
+</tbody>
+</table>
+<h1 id="section-1"></h1>
+<p><strong>附件4：指定药店清单</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th><strong>青岛市社会医疗保险定点特供药店名单</strong></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>序号</strong></td>
+<td><strong>特供药店名称</strong></td>
+<td><strong>地址</strong></td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>青岛德信行惠友大药房有限公司</td>
+<td>市南区漳州一路42号</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>青岛上药众协大药房有限公司</td>
+<td>市南区漳州一路22号</td>
+</tr>
+<tr class="even">
+<td>3</td>
+<td>青岛丰硕堂医药连锁有限公司第二十二大药房</td>
+<td>市南区江苏路29号地上一层3号龙山超级市场</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>青岛康杰大药房有限公司</td>
+<td>市南区江苏路8号</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>青岛百洋健康药房连锁有限公司第二药店</td>
+<td>市南区东海中路20号丙明珠新村1号楼网点首层</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>青岛医保城药品连锁有限公司台东分公司</td>
+<td>市北区芙蓉路66号网点</td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>青岛市海王星辰健康药房连锁有限公司南京路店</td>
+<td>市北区南京路244号-1号</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>青岛信益堂药业有限公司</td>
+<td>崂山区海尔路61号天宝国际金座1-108</td>
+</tr>
+<tr class="even">
+<td>9</td>
+<td>京东大药房（青岛）连锁有限公司青医崂山院区店</td>
+<td>崂山区海尔路61号1号楼负一层</td>
+</tr>
+<tr class="odd">
+<td>10</td>
+<td>青岛美康药店连锁有限公司十二分店</td>
+<td>崂山区海尔路61号天宝国际1号楼金街04号</td>
+</tr>
+<tr class="even">
+<td>11</td>
+<td>青岛同方药业连锁有限公司第三十九连锁店</td>
+<td>城阳区长城路153号、155号、157号网点</td>
+</tr>
+<tr class="odd">
+<td>12</td>
+<td>青岛国药大药房有限公司</td>
+<td>城阳区城阳街道和阳路301-303号</td>
+</tr>
+<tr class="even">
+<td>13</td>
+<td>青岛春天之星大药房医药连锁有限公司健康广场</td>
+<td>黄岛区灵山湾路273号网点</td>
+</tr>
+<tr class="odd">
+<td>14</td>
+<td>青岛海贤大药房有限公司</td>
+<td>黄岛区奋进路455-23号网点</td>
+</tr>
+<tr class="even">
+<td>15</td>
+<td>青岛海岸大药房连锁有限公司回春药房</td>
+<td>西海岸新区灵山湾路2326号</td>
+</tr>
+<tr class="odd">
+<td>16</td>
+<td>青岛紫光药业有限公司第一连锁店</td>
+<td>即墨区城西一路254号</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>青岛海森特大药房连锁有限公司第五连锁店</td>
+<td>胶州市阜安街道办事处福州北路15号西22、23号网点</td>
+</tr>
+<tr class="odd">
+<td>18</td>
+<td>青岛漱玉平民大药房有限公司平度宏泰人民医院店</td>
+<td>平度市扬州路43号</td>
+</tr>
+<tr class="even">
+<td>19</td>
+<td>青岛海勇大药房有限公司</td>
+<td>平度市凤台街道办事处经四路199-46号1层</td>
+</tr>
+</tbody>
+</table>
+
+
+</div> 
+</template>
+
+<script>
+  export default {
+    name: "Clause"
+  }
+</script>
+
+<style scoped lang="scss">
+@import "./style.scss";
+</style>

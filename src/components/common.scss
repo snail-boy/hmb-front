@@ -1,0 +1,36 @@
+@import "../styles/variables";
+
+.pay-btn-box {
+  padding-top: 60px;
+  .van-button {
+    background: $base-color;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    width: 240px;
+  }
+}
+.overlay-wrapper {
+  .overlay-content {
+    width: 540px;
+    height: 600px;
+    margin: 300px auto 0;
+    background: white;
+    border-radius: 20px;
+  }
+  .overlay-tip {
+    text-align: center;
+    font-size: 40px;
+    line-height: 42px;
+    color: #666;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  img {
+    display: block;
+    width: 500px;
+    height: 500px;
+    padding-top: 20px;
+    margin: 20px auto 0;
+  }
+}

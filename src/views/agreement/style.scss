@@ -1,0 +1,101 @@
+@import "../../styles/variables";
+
+.clauses-item-wrapper {
+  padding: 30px 20px;
+  text-align: justify;
+  color: #646566;
+  font-family: "Songti TC";
+  h1 {
+    text-align: center;
+    margin: 40px auto;
+    line-height: 50px;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  .title-tip {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 60px;
+  }
+  .par-title {
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 20px auto;
+  }
+  .par-sub-title {
+    font-size: 24px;
+    line-height: 40px;
+    margin: 10px auto;
+  }
+  h2, h3 {
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+    line-height: 40px;
+  }
+  .two {
+    text-indent: 1em;
+  }
+  p {
+    color: #646566;
+    font-size: 24px;
+    text-indent: 2em;
+  }
+  .b {
+    color: black;
+    font-weight: bolder;
+  }
+  .g-bolder {
+    font-size: 25px;
+    font-weight: bolder;
+    color: #222;
+  }
+  .b p, .b .par-sub-title, strong {
+    color: black;
+    font-weight: bolder;
+  }
+  table th {
+    color: black;
+  }
+  .L {
+    text-decoration: underline;
+  }
+
+  table {
+    table-layout:fixed;
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+  }
+  table td, table th
+  {
+    border: 1px solid #cad9ea;
+    color: #666;
+    height: 30px;
+    word-wrap:break-word;
+  }
+  table th
+  {
+    background-color: $base-color;
+    color: white;
+  }
+  .table-to-json-wrapper{
+    table{
+      tr{
+        td{
+          background-color: white;
+        }
+      }
+    }
+  }
+  table tr:nth-child(odd)
+  {
+    background: #fff;
+  }
+  table tr:nth-child(even)
+  {
+    background: $bg-color;
+  }
+}

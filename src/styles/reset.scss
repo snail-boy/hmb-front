@@ -1,0 +1,68 @@
+/** 基础样式 **/
+html, body {
+  min-height: 100%;
+  font-family: 'PingFangSC-Regular', 'PingFang SC Bold', 'Microsoft Yahei', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333;
+  font-size: 24px;
+  line-height: 33px;
+}
+body {
+  -webkit-text-size-adjust: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body, h1, h2, h3, h4, h5, h6, hr, p, a, span, i, section, article, sub, sup, strong
+blockquote, dl, dt, dd, ul, ol, li, pre,
+form, fieldset, legend, button, input, select, textarea, label,
+th, td, img, div, header, footer, nav,
+address, cite, dfn, var, table {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: normal;
+  list-style: none;
+  font-style: normal;
+  text-decoration: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  &::before,
+  &::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+button, input, select, textarea {
+  font-family: 'PingFangSC', 'Microsoft Yahei', 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-appearance: none;
+  outline: none;
+  background: none;
+  border: none;
+}
+textarea {
+  user-select: auto;
+}
+::-webkit-input-placeholder {
+  color: #BFBFBF;
+}
+a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+}
+
+fieldset,
+img {
+  width: 100%;
+  height: auto;
+  border: 0;
+  vertical-align: middle;
+}
+
+b {
+  color: black;
+  font-weight: bolder;
+}
+
