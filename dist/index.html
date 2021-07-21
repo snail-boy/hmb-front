@@ -1,0 +1,116 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta content="initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,width=device-width" name="viewport"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rrweb@latest/dist/rrweb.min.css"><script src="https://cdn.jsdelivr.net/npm/rrweb@latest/dist/rrweb.min.js"></script><link rel="icon" href="logo.ico"><script src="https://cdn.bootcss.com/pako/1.0.6/pako.min.js"></script><script src="https://gw.alipayobjects.com/as/g/h5-lib/alipayjsapi/3.1.1/alipayjsapi.min.js"></script><title>琴岛e保</title><style>#loader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 3002;
+        width: 100%;
+        height: 100vh;
+        transition: all .5s;
+        opacity: 1;
+        display: block;
+        background: white;
+      }
+      #loader.active {
+        opacity: 0;
+        transition: all .5s;
+      }
+
+      .loader-box {
+        width: 100%;
+      }
+      .loader-logo {
+        display: block;
+        width: 100px;
+        margin: 0 auto 16vw;
+        padding-top: 12vw;
+        box-sizing: border-box;
+      }
+      .spinner {
+        line-height: 0;
+        box-sizing: border-box;
+        width: 40px;
+        height: 40px;
+        color: #36643e;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        border-radius: 20px;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+
+      .spinner:before {
+        content: '';
+        width: 100%;
+        height: 20%;
+        min-width: 5px;
+        background: #000;
+        opacity: 0.1;
+        position: absolute;
+        bottom: 0%;
+        left: 0;
+        border-radius: 50%;
+        animation: rotate-square-2-shadow .5s linear infinite;
+      }
+      .spinner:after {
+        content: '';
+        width: 100%;
+        height: 100%;
+        background: #3181BC;
+        animation: rotate-square-2-animate .5s linear infinite;
+        position: absolute;
+        bottom:40%;
+        left: 0;
+        border-radius: 3px;
+      }
+
+      @keyframes rotate-square-2-animate {
+        17% {
+          border-bottom-right-radius: 3px;
+        }
+        25% {
+          transform: translateY(20%) rotate(22.5deg);
+        }
+        50% {
+          transform: translateY(40%) scale(1, .9) rotate(45deg);
+          border-bottom-right-radius: 50%;
+        }
+        75% {
+          transform: translateY(20%) rotate(67.5deg);
+        }
+        100% {
+          transform: translateY(0) rotate(90deg);
+        }
+      }
+
+      @keyframes rotate-square-2-shadow {
+        0%, 100% {
+          transform: scale(1, 1);
+        }
+        50% {
+          transform: scale(1.4, 1);
+        }
+      }
+      .index-title-text {
+        width: 100%;
+        height: 100px;
+        font-size: 22px;
+        line-height: 100px;
+        text-align: center;
+        color: #3181BC;
+      }</style><link href="static/css/chunk-vendors.cb46d910.css" rel="stylesheet"><link href="static/css/app.4ccee0bb.css" rel="stylesheet"></head><body><noscript><strong>no access</strong></noscript><div id="loader"><div class="loader-box"><img src="logo.png" alt="" class="loader-logo"></div><div class="index-title-text">医保+<span style="color:#64C191">e</span>保 生活更美好</div><div class="spinner spinner--rotate-square-2"></div></div><div id="app"></div><script>let timer = null, timer2 = null
+    clearTimeout(timer)
+    clearTimeout(timer2)
+    timer = setTimeout(() => {
+      document.getElementById('loader').classList.add('active')
+      clearTimeout(timer)
+    }, 1000)
+    timer2 = setTimeout(() => {
+      document.getElementById('loader').style.display = 'none'
+      clearTimeout(timer2)
+    }, 1500)</script><script></script><script type="module" src="static/js/chunk-vendors.61e0c187.js"></script><script type="module" src="static/js/app.d7e2924e.js"></script><script>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()},!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script><script src="static/js/chunk-vendors-legacy.1a09ae18.js" nomodule></script><script src="static/js/app-legacy.0c8189ee.js" nomodule></script></body></html>
